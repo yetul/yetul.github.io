@@ -1,15 +1,15 @@
 ---
-title: "OUTPERFORMING THE BROAD MARKET: AN APPLICATION OF CAN SLIM STRATEGY"
+title: "Paper Title Number 3"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'Investor's Business Daily has advocated the CAN SLIM investment strategy since the 1980s. Unlike traditional long term, buy and hold portfolio strategies, CAN SLIM advocates an active management style. This paper examines the use of a simplified version to test for effective and profitable investment possibilities. The results indicate that an average investor with little or no analytical capabilities can outperform a buy and hold strategy in the S&P 500 Index. The simplified system outperformed the S&P 500 Index by .82% per month for the period 2001 through 2012.'
-date: 2013
-venue: 'ASBBS e-journal'
-paperurl: 'https://search.proquest.com/openview/388d63a47cc54789ef9382bf9fa59ef7/1?pq-origsite=gscholar&cbl=2030640'
-citation: 'Lutey, Matt, Michael Crum, and David Rayome. "Outperforming the Broad Market: An Application of Can Slim Strategy." ASBBS e-Journal 9.1 (2013): 90.'
+permalink: /publication/2015-10-01-paper-title-number-3
+excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+date: 2015-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
-'Investor's Business Daily has advocated the CAN SLIM investment strategy since the 1980s. Unlike traditional long term, buy and hold portfolio strategies, CAN SLIM advocates an active management style. This paper examines the use of a simplified version to test for effective and profitable investment possibilities. The results indicate that an average investor with little or no analytical capabilities can outperform a buy and hold strategy in the S&P 500 Index. The simplified system outperformed the S&P 500 Index by .82% per month for the period 2001 through 2012.'
+This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](https://search.proquest.com/openview/388d63a47cc54789ef9382bf9fa59ef7/1?pq-origsite=gscholar&cbl=2030640)
+[Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Recommended citation: Lutey, Matt, Michael Crum, and David Rayome. "Outperforming the Broad Market: An Application of Can Slim Strategy." ASBBS e-Journal 9.1 (2013): 90.
+Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
