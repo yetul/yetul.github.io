@@ -1,5 +1,5 @@
 ---
-title: "OPBM II"
+title: "OPBM II: An Interpretation of the CAN SLIM investment strategy"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is an application of CAN SLIM investing strategy benchmarked on the Nasdaq 100 index.'
