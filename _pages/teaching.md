@@ -5,18 +5,26 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Pre-MBA
+## Pre-MBA Summer 2017
 
-<b>[QMBE4400: Business Statistics]</b> <br>
+<b>[QMBE4400: Business Statistics]</b> Summer 2017<br>
 Department of Economics and Finance, <b>University of New Orleans</b>
+Rating: 3.67/5.00
 
-## Undergraduate
+## Undergraduate Fall 2017 - Summer 2018
 
-<b>[A Study of AI Population Dynamics with Million-agent Reinforcement Learning](http://lantaoyu.com/publications/MA)</b><br>
-<b>Lantao Yu\*</b>, Yaodong Yang\*, Yiwei Bai\*(equal contribution), Jun Wang, Weinan Zhang, Ying Wen, Yong Yu. <b>AAMAS 2018</b>.
+<b>[FIN3300: Fundamentals of Financial Management]</b> Fall 2017<br>
+Department of Economics and Finance, <b>University of New Orleans</b>
+Rating: 4.25/5.00
 
-<b>[Exploiting Real-World Data and Human Knowledge for Predicting Wildlife Poaching](http://lantaoyu.com/publications/COMPASS18)</b><br>
-Swaminathan Gurumurthy, <b>Lantao Yu</b>, Chenyan Zhang, Yongchao Jin, Weiping Li, Xiaodong Zhang, Fei Fang. <i>ACM SIGCAS Conference on Computing and Sustainable Societies. <b>COMPASS 2018</b>.</i>
+<b>[ECON2221: Money and Banking]</b> Spring 2018<br>
+Department of Economics and Finance, <b>University of New Orleans</b>
+Rating: 4.57/5.00
 
-<b>[Deep Reinforcement Learning for Green Security Game with Online Information](http://lantaoyu.com/publications/RLSG)</b><br>
-<b>Lantao Yu</b>, Yi Wu, Rohit Singh, Lucas Joppa and Fei Fang. <i>AAAI-18 Artificial Intelligence for Imperfect-Information Games Workshop.</i>
+<b>[ECON1203: Microeconomics]</b> Summer 2018<br>
+Department of Economics and Finance, <b>University of New Orleans</b>
+Rating: 4.80/5.00
+
+<b>[ECON1204: Macroeconomics]</b> Fall 2018<br>
+Department of Economics and Finance, <b>University of New Orleans</b>
+Rating: 4.80/5.00
