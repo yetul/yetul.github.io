@@ -10,6 +10,6 @@ citation: 'M Lutey, M Crum, D Rayome. (2013). &quot;Outperforming the Broad Mark
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](https://github.com/yetul/matt/tree/gh-pages/files/lutey1.pdf)
+[Download paper here](/files/lutey1.pdf)
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).

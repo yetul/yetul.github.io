@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. candidate in finance at the University of New Orleans.
+I'm a Ph.D. candidate in finance at the [University of New Orleans](www.uno.edu).
+I have a MBA and BS from [Northern Michigan University](www.nmu.edu)
 
-A data-driven personal website
 ======
