@@ -12,4 +12,4 @@ redirect_from:
 * I'm a Ph.D. candidate in finance at the [University of New Orleans](https://www.uno.edu).<br>
 * I'm also alumni from [Northern Michigan University](https://www.nmu.edu)<br>
 <br>
-* My research interests are primarily filter rules and stock market efficiency. I've also recently gained interested in machine learning and computer vision. 
+*My research has been focused on stock screeners and filter rules. I'm working on computer vision and machine learning for my dissertation and job market paper. I'm also interested in corporate finance.  
