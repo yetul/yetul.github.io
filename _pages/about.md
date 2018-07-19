@@ -1,4 +1,5 @@
 ---
+permalink: /
 title: "Matt Lutey"
 excerpt: "About me"
 author_profile: true
