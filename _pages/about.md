@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm a Ph.D. candidate in finance at the [University of New Orleans](https://www.uno.edu).<br>
-I'm alumni from [Northern Michigan University](https://www.nmu.edu)<br>
+* I'm a Ph.D. candidate in finance at the [University of New Orleans](https://www.uno.edu).<br>
+* I'm also alumni from [Northern Michigan University](https://www.nmu.edu)<br>
 <br>
-This cite provides relevant works, contact links and a current resume.
+* My research interests are primarily filter rules and stock market efficiency. I've recently gained interested and traction in machine learning and computer vision. I'm also interested in corporate finance. 
