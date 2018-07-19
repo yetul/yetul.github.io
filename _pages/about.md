@@ -1,5 +1,6 @@
 ---
 permalink: /
+<<<<<<< HEAD
 title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 excerpt: "About me"
 author_profile: true
@@ -48,3 +49,18 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+=======
+title: "Matt Lutey"
+excerpt: "About me"
+author_profile: true
+redirect_from:
+ - /about/
+ - /about.html
+---
+
+
+I'm a Ph.D. candidate in finance at the [University of New Orleans](https://www.uno.edu).<br>
+I have both an MBA and BS from [Northern Michigan University](https://www.nmu.edu)<br>
+<br>
+This cite provides relevant works, contact links and a current resume.
+>>>>>>> gh-pages

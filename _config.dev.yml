@@ -10,4 +10,8 @@ comments:
     shortname            : "mmistakes-dev"
 
 sass:
+<<<<<<< HEAD
   style: expanded
+=======
+  style: expanded
+>>>>>>> gh-pages

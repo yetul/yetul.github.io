@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+<<<<<<< HEAD
 Education
 ======
 * B.S. in Github, Github University, 2012
@@ -57,3 +58,6 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+=======
+<b>[Click this link for an up-to-date CV.](/files/cv.pdf)</b>
+>>>>>>> gh-pages

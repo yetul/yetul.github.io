@@ -7,6 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
+<<<<<<< HEAD
 title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
@@ -14,6 +15,15 @@ description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
+=======
+title                    : Matt Lutey
+title_separator          : "-"
+name                     : simple cite
+description              : Ph.D. Candiate
+url                      : https://yetul.github.io/matt # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "https://yetul.github.io/matt"
+>>>>>>> gh-pages
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,6 +88,7 @@ analytics:
 
 # Site Author
 author:
+<<<<<<< HEAD
   name             : "Your Sidebar Name"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
@@ -85,6 +96,15 @@ author:
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
+=======
+  name             : "Matt Lutey"
+  avatar           : "profile.jpg"
+  bio              : "Ph.D. Candidate in Financial Economics"
+  location         : "New Orleans, LA"
+  employer         :
+  googlescholar    : "https://scholar.google.com/citations?user=S0Ls70oAAAAJ&hl=en"
+  email            : "mailto:mlutey@uno.edu"
+>>>>>>> gh-pages
   uri              :
   bitbucket        :
   codepen          :
@@ -92,6 +112,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
+<<<<<<< HEAD
   github           : "academicpages"
   google_plus      :
   keybase          :
@@ -99,12 +120,25 @@ author:
   lastfm           :
   linkedin         :
   orcid            : "http://orcid.org/yourorcidurl"
+=======
+  github           : "yetul/"
+  google_plus      :
+  keybase          :
+  instagram        : #"mattlutey/"
+  lastfm           :
+  linkedin         : "lutey/"
+  orcid            :
+>>>>>>> gh-pages
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
+<<<<<<< HEAD
   twitter          : "replacethistwitterhandle"
+=======
+  twitter          : "luteymatt"
+>>>>>>> gh-pages
   vine             :
   weibo            :
   xing             :
@@ -304,4 +338,11 @@ compress_html:
   ignore:
     envs: development
 
+<<<<<<< HEAD
 theme: jekyll-theme-architect
+=======
+theme: jekyll-theme-architect
+
+
+github: [metadata]
+>>>>>>> gh-pages
