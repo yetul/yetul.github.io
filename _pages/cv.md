@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<b>[This link presents an up-to-date CV in browser.](/files/cv.pdf)</b>
+<b>[Click this link for an up-to-date CV.](/files/cv.pdf)</b>

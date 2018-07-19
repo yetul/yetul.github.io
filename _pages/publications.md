@@ -1,10 +1,39 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-[CANSLIM](/publications/2009-10-01-paper-title-number-1.md)
-[publication1](/files/lutey1.pdf)
-[publication2](/files/opbm2.pdf)
-[publication3](/files/lutey2.pdf)
+<b>[Publications | Google Scholar Profile](https://scholar.google.com/citations?user=S0Ls70oAAAAJ&hl=en)</b>
+<br>
+
+## Publications
+
+<b>[An Application of Can Slim Investing in the Dow Jones Benchmark](canslim3)</b> <br>
+<b>M Lutey</b>, MK Hassan, D Rayome <i>Asian Journal of Economic Modeling</i>. <b>AJEM 2018</b>.
+
+<b>[OPBM II: An Interpretation of the CAN SLIM Investment Strategys](canslim2)</b> <br>
+<b>M Lutey</b>, M Crum, D Rayome, <i>MBAA Conference</i><b>JAF 2014</b>
+
+<b>[Outperforming the Broad Market: An Application of Can Slim Strategy](canslim1)</b> <br>
+<b>M Lutey</b>, M Crum, D Rayome.<i>Academic Society of Business and Behavioral Sciences</i> <b>ASBBS e-journal 2013</b>.
+
+## Working Papers
+
+<b>[Survival Analysis of Ichimoku Cloud Indicator](wp1)</b><br>
+<b>Matt Lutey</b>
+
+<b>[Performance Evaluation of Stock Selection Strategies](wp2)</b><br>
+ <b>Matt Lutey</b>
+
+<b>[A Primer on Ichimoku Cloud Indicator](wp3)</b><br>
+<b>Matt Lutey</b>
+
+<b>[Forecasting Equity Premium with Ichimoku Cloud](wp4)</b><br>
+<b>Matt Lutey</b>
+
+<b>[Pay Gap: Do outside CEOs earn unfair compensation](wp5)</b><br>
+<b>Matt Lutey</b>
+
+## Job Market
+<b>[Computer Vision and Classic Chart Patterns](jobmarket)</b><br>
+<b>Matt Lutey</b>
