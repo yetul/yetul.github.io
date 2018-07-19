@@ -1,24 +1,10 @@
 ---
-<<<<<<< HEAD
 layout: archive
-=======
->>>>>>> gh-pages
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<<<<<<< HEAD
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-=======
 <b>[Publications | Google Scholar Profile](https://scholar.google.com/citations?user=S0Ls70oAAAAJ&hl=en)</b>
 <br>
 
@@ -53,4 +39,3 @@ author_profile: true
 ## Job Market
 <b>[Computer Vision and Classic Chart Patterns](jobmarket)</b><br>
 <b>Matt Lutey</b>
->>>>>>> gh-pages
