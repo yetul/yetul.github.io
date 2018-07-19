@@ -6,7 +6,7 @@ venue: 'Asian Journal of Economic Modeling'
 date: 2018-05-01
 citation: '<b>M Lutey</b>, MK Hassan, D Rayome (2018). &quot;An Application of Can Slim Investing in the Dow Jones Benchmark&quot; <i>Asian Journal of Economic Modeling</i>. 6(3), 274-286.'
 ---
-[Download paper here](files/lutey2.pdf)
+[Download paper here](/files/lutey2.pdf)
 
 ## Abstract
 This paper provides an alternative view of the popular CAN SLIM investing strategy
