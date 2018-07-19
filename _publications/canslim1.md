@@ -3,7 +3,7 @@
 title: "Outperforming the Broad Market: An Application of Can Slim Strategy"
 collection: publications
 permalink: /publications/canslim1
-venue: "Academic Society of Business and Behavioral Sciences (ASBBS)"
+venue: "American Society of Business and Behavioral Sciences (ASBBS)"
 date: 2013-3-14
 citation: '<b>M Lutey</b>, M Crum, D Rayome. (2013). &quot;Outperforming the Broad Market: An Application of Can Slim Strategy&quot; <i>ASBBS e-journal</i>.9(1),90'
 ---

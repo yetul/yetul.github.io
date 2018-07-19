@@ -6,26 +6,26 @@ author_profile: true
 ---
 ## Conferences
 
-<b>[Finance Management Association]</b>Fall 2018<br>
+<b>[Finance Management Association](https://www.fma.org)</b> Fall 2018<br>
 San Diego,CA <b>Attendee</b><br>
 
-<b>[World Business Institute]</b>Summer 2017<br>
+<b>[World Business Institute](http://www.worldbizins.org/)</b> Summer 2017<br>
 New York,NY <b>Presenter</b><br>
 <b> <span style="color:red">Best Journal Award</span> </b>
 
-<b>[Southwestern Finance Association]</b>Spring 2016<br>
+<b>[Southwestern Finance Association](http://www.southwesternfinance.org/)</b> Spring 2016<br>
 Oklahoma City,OK <b>Presenter, Discussant</b><br>
 
-<b>[Academy of Economics and Finance]</b>Spring 2016<br>
+<b>[Academy of Economics and Finance](https://www.economics-finance.org/)</b> Spring 2016<br>
 Pensacola,FL <b>Presenter</b><br>
 
-<b>[Eastern Finance Association]</b>Spring 2015<br>
+<b>[Eastern Finance Association](https://www.easternfinance.online/)</b> Spring 2015<br>
 New Orleans,LA <b>Attendee</b><br>
 
-<b>[MBAA Conference]</b>Spring 2014<br>
+<b>[MBAA International](https://mbaainternational.org/)</b> Spring 2014<br>
 Chicago,IL <b>Presenter, Discussant</b><br>
 
-<b>[ASBBS Conference]</b>Spring 2013<br>
+<b>[ASBBS  Conference](http://asbbs.org/call-for-paper/national/)</b> Spring 2013<br>
 Las Vegas,NV <b>Presenter, Discussant</b><br>
 <b> <span style="color:red">Best Paper Award - Finance Track</span> </b>
 
