@@ -14,8 +14,8 @@ redirect_from:
 <br>
 
 * My research has been focused on stock screeners and filter rules. I'm working on computer vision and machine learning for my dissertation and job market paper. I'm also interested in corporate finance.
-* I'm interested in collaborating with other students and scholars for new works including game theory, corporate finance, market efficency, and other studies. If you are interested in collaborating please contact me. [Contact](/contact)
+* I'm interested in collaborating with other students and scholars for new works including game theory, corporate finance, market efficency, and other studies. If you are interested in collaborating please [contact](/contact) me. 
 
 ## Recent News
 
-* I am attending [FMA](http://fma.org) for their San Diego conference. 
+* I am attending [FMA](http://fma.org) for their San Diego conference.
