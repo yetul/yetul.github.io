@@ -10,4 +10,4 @@ date: 2017-12-14
 
 
 ## Abstract
-Given the results from a Survival Analysis of Technical Indicators, I test the Ichimoku cloud indicators ability to forecast equity risk premium in the presence of traditional factors such as size and market-to-book. Short-term signals and long-term contrarian strategies show positive test statistics over long horizons. 
+I test the forecasting ability of the Ichimoku cloud indicator (outlined in Linton(2010,print)) on the U.S. aggregate stock market. Contrarian strategies for long term parameters show strong test statistics. Short term parameters also show promise. The Ichimoku cloud may be an effective tool for practitioners and academics for testing equity risk premium. 
