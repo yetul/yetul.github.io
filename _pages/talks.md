@@ -29,7 +29,7 @@ Chicago,IL <b>Presenter, Discussant</b><br>
 Las Vegas,NV <b>Presenter, Discussant</b><br>
 <b> <span style="color:red">Best Paper Award - Finance Track</span> </b>
 
-## Seminar
+<!-- ## Seminar
 
 <b>[Financial Planning Seminar]</b> Fall 2013<br>
 College of Business, <b>Northern Michigan University</b><br>
@@ -37,7 +37,7 @@ Rating: 5.0/5.0
 
 <b>[Technical Analysis Seminar]</b> Fall 2013<br>
 College of Business, <b>Northern Michigan University</b><br>
-Rating: 5.0/5.0
+Rating: 5.0/5.0 -->
 
 ## Tutorial
 
