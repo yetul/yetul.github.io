@@ -4,7 +4,7 @@ main:
     url: /publications/
 
 
-  - title: "Conferences/Talks"
+  - title: "Conferences"
     url: /talks/
 
   - title: "Teaching"
@@ -20,6 +20,6 @@ main:
     url: /cv/
 
   - title: "Contact"
-    url: /contact/  
+    url: /contact/
   #- title: "Guide"
   #  url: /markdown/
