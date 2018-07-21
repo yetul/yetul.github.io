@@ -3,9 +3,6 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "WorkingPapers"
-        url: /workingpapers/
-
 
   - title: "Conferences"
     url: /talks/
@@ -13,8 +10,8 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-#  - title: "Portfolio"
-#    url: /portfolio/
+  - title: "Working Papers"
+    url: /workingpapers/
 
 #  - title: "Blog Posts"
 #    url: /year-archive/
