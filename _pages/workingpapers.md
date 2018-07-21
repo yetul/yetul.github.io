@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "WorkingPapers"
+title: "Working Papers"
 permalink: /workingpapers/
 author_profile: true
 ---

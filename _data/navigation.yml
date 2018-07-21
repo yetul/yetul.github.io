@@ -1,25 +1,26 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+- title: "CV"
+  url: /cv/
 
+- title: "Publications"
+  url: /publications/
 
-  - title: "Conferences"
-    url: /talks/
+  # - title: "Working Papers"
+  #   url: /workingpapers/
 
-  - title: "Teaching"
-    url: /teaching/
+- title: "Teaching"
+  url: /teaching/
 
-  - title: "Working Papers"
-    url: /workingpapers/
+- title: "Conferences"
+  url: /conferences/
 
-  - title: "Blog Posts"
-    url: /year-archive/
+- title: "Contact"
+  url: /contact/
+  #   url: /workingpapers/
+  #
+  # - title: "Talks"
+  #     url: /talksand/
 
-  - title: "CV"
-    url: /cv/
-
-  - title: "Contact"
-    url: /contact/
-  - title: "Guide"
-    url: /markdown/
+# - title: "Seminars & Tutorials"
+#   url: /talksand/
