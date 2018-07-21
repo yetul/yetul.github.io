@@ -14,7 +14,7 @@ redirect_from:
 <br>
 
 * My research has been focused on stock screeners and filter rules. I'm working on computer vision and machine learning for my dissertation and job market paper. I'm also interested in corporate finance.
-* I'm interested in collaborating with other students and scholars for new works including game theory, corporate finance, market efficency, and other studies. If you are interested in collaborating please [contact](/contact) me.
+* I'm interested in collaborating with other students and scholars for new works including game theory, corporate finance, market efficency, and other studies. Please [contact](/contact) me if you are interested in working together.
 * Click [here](/files/lutey.pdf) to view an up-to-date CV.
 
 ## Recent News
