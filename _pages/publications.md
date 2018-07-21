@@ -20,7 +20,7 @@ author_profile: true
 <b>M Lutey</b>, M Crum, D Rayome.<i>Academic Society of Business and Behavioral Sciences</i> <b>ASBBS e-journal 2013</b>.
 
 
-## Working Papers
+<!-- ## Working Papers
 
 <b>[Survival Analysis of Ichimoku Cloud Indicator](wp1)</b><br>
 <b>Matt Lutey</b>
@@ -39,4 +39,4 @@ author_profile: true
 
 ## Job Market
 <b>[Computer Vision and Classic Chart Patterns](jobmarket)</b><br>
-<b>Matt Lutey</b>
+<b>Matt Lutey</b> -->
