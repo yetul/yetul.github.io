@@ -29,8 +29,8 @@ Chicago,IL <b>Presenter, Discussant</b><br>
 Las Vegas,NV <b>Presenter, Discussant</b><br>
 <b> <span style="color:red">Best Paper Award - Finance Track</span> </b>
 
-<b>[RISE Conference](https://riseconf.com/)</b> Spring 2012<br>
-Dayton, OH <b> Attendee </b> <br>
+<!-- <b>[R.I.S.E. Conference](https://udayton.edu/business/academics/undergraduate/economics_and_finance/rise/index.php)</b> Spring 2012<br>
+Dayton, OH <b> Attendee </b> <br> -->
 
 
 <!-- ## Seminar
