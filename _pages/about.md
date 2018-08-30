@@ -8,7 +8,7 @@ redirect_from:
  - /about.html
 ---
 <p align="center">
-  <img src="https://yetul.github.io/files/matt.jpeg?raw=true" alt="Photo" style="width: 450px;"/>
+  <img src="https://yetul.github.io/files/matt.jpg?raw=true" alt="Photo" style="width: 450px;"/>
 </p>
 
 * I'm a Ph.D. candidate in finance at the [University of New Orleans](https://www.uno.edu).<br>
