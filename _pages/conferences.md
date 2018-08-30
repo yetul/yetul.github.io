@@ -43,7 +43,7 @@ Rating: 5.0/5.0
 College of Business, <b>Northern Michigan University</b><br>
 Rating: 5.0/5.0 -->
 
-## Tutorial
+<!-- ## Tutorial
 
 <b>[Mathematica Tutorial]</b> Fall 2017<br>
-Department of Economics and Finance, <b>University of New Orleans</b><br>
+Department of Economics and Finance, <b>University of New Orleans</b><br> -->
