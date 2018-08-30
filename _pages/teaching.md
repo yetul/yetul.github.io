@@ -13,12 +13,12 @@ Department of Economics and Finance, <b>University of New Orleans</b><br>
 
 <b>[ECON1203: Microeconomics](http://www.uno.edu/registrar/catalog/1617catalog/courses-of-instruction/ECON.aspx)</b> Summer 2018<br>
 Department of Economics and Finance, <b>University of New Orleans</b><br>
-Enrollment: 4
-Evaluations: 4
-Category 1: Engagement / Interest - 4.750
-Category 2: Assessment - 4.750
-Category 3: Organization / Clarity - 4.750
-Category 4: Overall Evaluation / Learning - 4.667
+Enrollment: 4<br>
+Evaluations: 4<br>
+Category 1: Engagement / Interest - 4.750<br>
+Category 2: Assessment - 4.750<br>
+Category 3: Organization / Clarity - 4.750<br>
+Category 4: Overall Evaluation / Learning - 4.667<br>
 <b>[Click for Student Reviews](/files/econ1203.pdf)</b>
 
 
