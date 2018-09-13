@@ -14,8 +14,9 @@ redirect_from:
 * I'm a Ph.D. candidate in finance at the [University of New Orleans](https://www.uno.edu).<br>
 * I'm also alumni from [Northern Michigan University](https://www.nmu.edu)<br>
 
-* I'm interested in collaborating with other students and scholars for new works including game theory, corporate finance, market efficiency, and other studies. Please [contact](/contact) me if you are interested in working together.
 * Click [here](/files/lutey.pdf) to view an up-to-date CV.
+
+* I'm interested in collaborating with other students and scholars for new works including game theory, corporate finance, market efficiency, and other studies. Please [contact](/contact) me if you are interested in working together.
 * My Job Market research and dissertation ask whether image processing can detect non random patterns in data. This is done by identifying the patterns outlined in Lo, Mamysky, and Wang (2000).
 
 ## Recent News
