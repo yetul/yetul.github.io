@@ -6,8 +6,8 @@ main:
 - title: "Publications"
   url: /publications/
 
-  # - title: "Working Papers"
-  #   url: /workingpapers/
+- title: "Working Papers"
+  url: /workingpapers/
 
 - title: "Teaching"
   url: /teaching/
@@ -15,12 +15,14 @@ main:
 - title: "Conferences"
   url: /conferences/
 
+- title: "Service"
+  url: /Service/
+
 - title: "Contact"
   url: /contact/
   #   url: /workingpapers/
   #
-  # - title: "Talks"
-  #     url: /talksand/
+
 
 # - title: "Seminars & Tutorials"
 #   url: /talksand/
