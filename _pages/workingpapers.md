@@ -5,12 +5,12 @@ permalink: /workingpapers/
 author_profile: true
 ---
 ## Job Market
-<b>[Computer Vision and Classic Chart Patterns](jobmarket)</b><br>
-<b>Matt Lutey</b>
+<!-- <b>[Computer Vision and Classic Chart Patterns](jobmarket)</b><br>
+<b>Matt Lutey</b> -->
 
-## Submitted
+<!-- ## Submitted -->
 
-## In revision
+<!-- ## In revision
 <b>[Survival Analysis of Ichimoku Cloud Indicator](wp1)</b><br>
 <b>Matt Lutey</b>
 
@@ -24,4 +24,4 @@ author_profile: true
 <b>Matt Lutey</b>
 
 <b>[Pay Gap: Do outside CEOs earn unfair compensation](wp5)</b><br>
-<b>Matt Lutey</b>
+<b>Matt Lutey</b> -->
