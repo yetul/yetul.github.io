@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "service"
+title: "Service"
 permalink: /service/
 author_profile: true
 ---
@@ -10,4 +10,4 @@ author_profile: true
 
 <b>[New Orleans Track Club](https://runnotc.org/cgi-bin/volunteer_signup.pl) 4 hours </b>
 
-## Service
+<!-- ## Service -->
