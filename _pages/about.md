@@ -13,8 +13,8 @@ redirect_from:
 <!-- <p align="center">
   <img src="https://yetul.github.io/files/HS.jpg?raw=true" alt="Photo" style="width: 500px;"/>
 </p> -->
-* I'm a Ph.D. candidate in finance at the [University of New Orleans](https://www.uno.edu) [Curriculum Vitae](/files/lutey.pdf)
- * I'm a Ph.D. candidate in finance at the [University of New Orleans](https://www.uno.edu) [Curriculum Vitae](/files/lutey.pdf) My Doctoral Advisor is [Neal Maroney](http://www.uno.edu/coba/EconomicsFinance/FacultyStaff/NMaroney.aspx).
+* I'm a Ph.D. candidate in finance at the [University of New Orleans](https://www.uno.edu) [[Curriculum Vitae]](/files/lutey.pdf)
+ <!-- * I'm a Ph.D. candidate in finance at the [University of New Orleans](https://www.uno.edu) [Curriculum Vitae](/files/lutey.pdf) My Doctoral Advisor is [Neal Maroney](http://www.uno.edu/coba/EconomicsFinance/FacultyStaff/NMaroney.aspx). -->
  * I graduated with my Bachelors of Science (B.S.) and Masters in Business Administration (M.B.A.) from [Northern Michigan University](https://www.nmu.edu)<br>
 * I published in Cabel's listed journals while attending my MBA [Recent Publication](/files/lutey2.pdf)
 * My research interests are in market efficiency tests, program trading, and machine learning.[Working Papers](/workingpapers)
