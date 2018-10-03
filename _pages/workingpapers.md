@@ -4,7 +4,7 @@ title: "Working Papers"
 permalink: /workingpapers/
 author_profile: true
 ---
-## Job Market
+## Dissertation
 
 <p align="center">
   <img src="https://yetul.github.io/files/HS.jpg?raw=true" alt="Photo" style="width: 500px;"/>
@@ -16,11 +16,13 @@ author_profile: true
 
 * This research discusses nonlinear patterns common in technical trading circles (i.e. Head and Shoulders) which are identified by extrema. The full pattern definitions are outlined in Lo, Mamysky, and Wang (LMW, 2000). The question addressed in this is twofold, first, can nonrandom patterns be identified objectively using kernel density estimators and bandwidth selection, second, can the patterns be identified using image processing. The advantage of image processing may be to allow aggregating bias between professional technical analyst recommendations, understanding pattern statistics (confidence intervals), and obtaining patterns where raw data is unavailable. This is discussed in two papers. <br>
 
+## Job Market
+
 * The first paper titled “Reliability of Pattern Recognition in Recognizing Stock Price Patterns” discusses detecting nonrandom patterns in financial data using kernel smoothing and cross-validated bandwidth selection in rolling windows, using a new method called maximum price deviation. The new method sets a maximum deviation in the bandwidth minimization problem, which would otherwise go to zero. The contribution is that the patterns can be identified objectively rather than through professional recommendation (e.g. visually selecting bandwidth). This research paper first matches the patterns to LMW (2000) and then identifies the patterns in rolling windows over a full sample of 1971-2009 on Centex Security (CTX). The completed paper will include all cross-sectional stocks in CRSP using dividend and split adjusted log prices. This feeds in to the second paper which discusses whether nonrandom technical patterns are evident in financial time series. <br>
 * The second essay titled “Stock Price Pattern Recognition and Conditional Returns” focuses on supervised machine learning and computer vision to obtain statistics on the patterns, forecasting, and profitability. The contribution is that the patterns may be detected in stock chart images using rolling windows and allow for forecasting, pattern statistics, forecasting, and pattern detection without needing raw data.<br>
 * The contribution may lead to market efficiency and program trading, as well as potential future research aggregating the bias of pattern output and professional recommendation. Further works may include more pattern definitions.<br>
 
-* A. W. Lo, H. Mamaysky, J. Wang, "Foundations of Technical Analysis: Computational Algorithms, Statistical Inference, and Empirical Implementation," Journal of Finance, 55(4), 2000 pp.1705-1765.
+* A. W. Lo, H. Mamaysky, J. Wang, "Foundations of Technical Analysis: Computational Algorithms, Statistical Inference, and Empirical Implementation," Journal of Finance, 55(4), 2000 pp.1705-1765.<br>
 <!-- <b>[Computer Vision and Classic Chart Patterns](jobmarket)</b><br>
 <b>Matt Lutey</b> -->
 
