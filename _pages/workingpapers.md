@@ -15,7 +15,9 @@ author_profile: true
 
 * Technical traders often search for these patterns as mean to extract information on future stock prices. This shows the sample stock price and its smoothed price (used to approximate a technician's view) over a 35 day period. Vertical lines  outline the extrema used in defining the pattern. Each pattern is defined as a set of rules relating to price minima, maxima, and their relative position to each other.<br> -->
 
-* This research discusses nonlinear patterns common in technical trading circles (i.e. Head and Shoulders) which are identified by extrema and are related to the above image. The full pattern definitions are outlined in Lo, Mamysky, and Wang (LMW, 2000). The question addressed in this is twofold, first, can nonrandom patterns be identified objectively using local polynomial regression and bandwidth selection, and second, can the patterns be identified using image processing. The later part discusses conditional returns, profitability, and pattern statistics.  
+* This research discusses nonlinear patterns common in technical trading circles (i.e. Head and Shoulders) which are identified by five consecutive extrema.E1 must be a maximum; E3 > E1; E3 > E5; E1 and E5 must be within 1.5% of their average; E2 and E4 must be within 1.5% of their average. The detection of each patterns requires 35 daily prices. Technical traders often search for these patterns as a way to extract information about future prices. The full pattern definitions are outlined in Lo, Mamysky, and Wang (LMW, 2000). The vertical lines show the extrema use din defining the pattern. Each pattern is defined as a set of rules relating to price minima, maxima, and their relative position to each other.
+
+* The question addressed in this is twofold. First, can nonrandom patterns be identified objectively using local polynomial regression and bandwidth selection. Second, can the patterns be identified using image processing. The later part discusses conditional returns, profitability, and pattern statistics. This leads to implications for academia and industry such as market efficiency research and program trading. 
 
 <!-- ## Working Papers
 
