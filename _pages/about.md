@@ -14,7 +14,7 @@ redirect_from:
   <img src="https://yetul.github.io/files/HS.jpg?raw=true" alt="Photo" style="width: 500px;"/>
 </p> -->
 
- * I'm a Ph.D. candidate in finance at the [University of New Orleans](https://www.uno.edu).<br>
+ * I'm a Ph.D. candidate in finance at the [University of New Orleans](https://www.uno.edu).
 <!-- * I'm also alumni from [Northern Michigan University](https://www.nmu.edu)<br> -->
 
 * Click [here](/files/lutey.pdf) to view an up-to-date CV.
