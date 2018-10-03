@@ -15,8 +15,8 @@ redirect_from:
 </p> -->
 * I'm a Ph.D. candidate in finance at the [University of New Orleans](https://www.uno.edu) [[Curriculum Vitae]](/files/lutey.pdf)
  <!-- * I'm a Ph.D. candidate in finance at the [University of New Orleans](https://www.uno.edu) [Curriculum Vitae](/files/lutey.pdf) My Doctoral Advisor is [Neal Maroney](http://www.uno.edu/coba/EconomicsFinance/FacultyStaff/NMaroney.aspx). -->
- * I graduated with my Bachelors of Science (B.S.) and Masters in Business Administration (M.B.A.) from [Northern Michigan University](https://www.nmu.edu)<br>
-* I published in Cabel's listed journals while attending my MBA [Recent Publication](/files/lutey2.pdf)
+ <!-- * I graduated with my Bachelors of Science (B.S.) and Masters in Business Administration (M.B.A.) from [Northern Michigan University](https://www.nmu.edu)<br> -->
+* I published in Cabel's listed journals while attending my MBA [[Recent Publication]](/files/lutey2.pdf)
 * My research interests are in market efficiency tests, program trading, and machine learning.[Working Papers](/workingpapers)
 <!-- * Please [contact](/contact) me if you are interested in working together. -->
 
