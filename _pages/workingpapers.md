@@ -5,7 +5,7 @@ permalink: /workingpapers/
 author_profile: true
 ---
 
-## Current Research
+## Dissertation
 
 <p align="center">
   <img src="https://yetul.github.io/files/HS.jpg?raw=true" alt="Photo" style="width: 500px;"/>
