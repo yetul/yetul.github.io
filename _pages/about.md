@@ -14,7 +14,7 @@ redirect_from:
   <img src="https://yetul.github.io/files/HS.jpg?raw=true" alt="Photo" style="width: 500px;"/>
 </p> -->
 * I'm a Ph.D. candidate in finance at the [University of New Orleans.](https://www.uno.edu)
-* [Click here for my current CV [PDF]](/files/lutey.pdf)
+* [Click here for my current CV.](/files/lutey.pdf)
  <!-- * I'm a Ph.D. candidate in finance at the [University of New Orleans](https://www.uno.edu) [Curriculum Vitae](/files/lutey.pdf) My Doctoral Advisor is [Neal Maroney](http://www.uno.edu/coba/EconomicsFinance/FacultyStaff/NMaroney.aspx). -->
  <!-- * I graduated with my Bachelors of Science and Masters in Business Administration from [Northern Michigan University](https://www.nmu.edu) -->
 <!--* I published in Cabel's listed journals while attending my MBA [[Recent Publication]](/files/lutey2.pdf)-->
