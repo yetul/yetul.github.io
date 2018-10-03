@@ -7,10 +7,12 @@ redirect_from:
  - /about/
  - /about.html
 ---
-<p align="center">
+<!-- <p align="center">
   <img src="https://yetul.github.io/files/conference1.jpg?raw=true" alt="Photo" style="width: 500px;"/>
+</p> -->
+<p align="center">
+  <img src="https://yetul.github.io/files/HS.jpg?raw=true" alt="Photo" style="width: 500px;"/>
 </p>
-
  * I'm a Ph.D. candidate in finance at the [University of New Orleans](https://www.uno.edu).<br>
 * I'm also alumni from [Northern Michigan University](https://www.nmu.edu)<br>
 
