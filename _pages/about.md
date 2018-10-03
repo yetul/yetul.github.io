@@ -14,9 +14,11 @@ redirect_from:
   <img src="https://yetul.github.io/files/HS.jpg?raw=true" alt="Photo" style="width: 500px;"/>
 </p> -->
 
- * I'm a Ph.D. candidate in finance at the [University of New Orleans](https://www.uno.edu).
-<!-- * I'm also alumni from [Northern Michigan University](https://www.nmu.edu)<br> -->
-* Click [here](/files/lutey.pdf) to view an up-to-date CV.
+ * I'm a Ph.D. candidate in finance at the [University of New Orleans](https://www.uno.edu)[Curriculum Vitae](/files/lutey.pdf).
+ * I graduated with my Bachelors of Science (B.S.) and Masters in Business Administration (M.B.A.) from [Northern Michigan University](https://www.nmu.edu)<br> -->
+* I published in Cabel's listed journals while attending my MBA[Recent Publication](/files/lutey2.pdf)
+* My Doctoral Advisor is Neal Maroney(http://www.uno.edu/coba/EconomicsFinance/FacultyStaff/NMaroney.aspx).
+* My research interests are in market efficiency tests, stock screeners, and machine learning.
 <!-- * Please [contact](/contact) me if you are interested in working together. -->
 
 <!-- * I'm interested in collaborating with other students and scholars for new works including game theory, corporate finance, market efficiency, and other studies. Please [contact](/contact) me if you are interested in working together. -->
