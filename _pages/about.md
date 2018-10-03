@@ -15,11 +15,12 @@ redirect_from:
 </p> -->
 
  * I'm a Ph.D. candidate in finance at the [University of New Orleans](https://www.uno.edu).<br>
-* I'm also alumni from [Northern Michigan University](https://www.nmu.edu)<br>
+<!-- * I'm also alumni from [Northern Michigan University](https://www.nmu.edu)<br> -->
 
 * Click [here](/files/lutey.pdf) to view an up-to-date CV.
+* Please [contact](/contact) me if you are interested in working together.
 
-* I'm interested in collaborating with other students and scholars for new works including game theory, corporate finance, market efficiency, and other studies. Please [contact](/contact) me if you are interested in working together.
+<!-- * I'm interested in collaborating with other students and scholars for new works including game theory, corporate finance, market efficiency, and other studies. Please [contact](/contact) me if you are interested in working together. -->
 
 ## Recent News
 * I am attending [FMA](http://fma.org) for their San Diego conference.
