@@ -13,7 +13,7 @@ redirect_from:
 <p align="center">
   <img src="https://yetul.github.io/files/HS.jpg?raw=true" alt="Photo" style="width: 500px;"/>
 </p>
-[Click for more info about this Graph](/workingpapers)
+
  * I'm a Ph.D. candidate in finance at the [University of New Orleans](https://www.uno.edu).<br>
 * I'm also alumni from [Northern Michigan University](https://www.nmu.edu)<br>
 
