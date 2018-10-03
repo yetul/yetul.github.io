@@ -16,7 +16,6 @@ redirect_from:
 
  * I'm a Ph.D. candidate in finance at the [University of New Orleans](https://www.uno.edu).
 <!-- * I'm also alumni from [Northern Michigan University](https://www.nmu.edu)<br> -->
-
 * Click [here](/files/lutey.pdf) to view an up-to-date CV.
 <!-- * Please [contact](/contact) me if you are interested in working together. -->
 
