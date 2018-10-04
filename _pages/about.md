@@ -18,7 +18,7 @@ redirect_from:
  <!-- * I'm a Ph.D. candidate in finance at the [University of New Orleans](https://www.uno.edu) [Curriculum Vitae](/files/lutey.pdf) My Doctoral Advisor is [Neal Maroney](http://www.uno.edu/coba/EconomicsFinance/FacultyStaff/NMaroney.aspx). -->
  <!-- * I graduated with my Bachelors of Science and Masters in Business Administration from [Northern Michigan University](https://www.nmu.edu) -->
 <!--* I published in Cabel's listed journals while attending my MBA [[Recent Publication]](/files/lutey2.pdf)-->
-* My research interests are in [market efficiency tests](/workingpapers), and [program trading](/workingpapers).
+<!-- * My research interests are in [market efficiency tests](/workingpapers), and [program trading](/workingpapers). -->
  <!-- [[Current Research]](/workingpapers)<!--[Working Papers](/workingpapers) -->
 <!-- * Please [contact](/contact) me if you are interested in working together. -->  
 <!-- [conferences](/conferences), [service](/service), and [contact info](/contact)  -->
@@ -27,4 +27,4 @@ redirect_from:
 
 ## Recent News
 * I am attending [FMA](http://fma.org) for their San Diego conference.
-* I defended my dissertation proposal on 9/27/2018. [Description of the Research](/workingpapers)
+* I defended my dissertation proposal on 9/27/2018. [Click here for a description](/workingpapers)
