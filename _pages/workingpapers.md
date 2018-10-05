@@ -5,6 +5,11 @@ permalink: /workingpapers/
 author_profile: true
 ---
 
+
+* I defended my dissertation proposal on 9/27/2018.
+* I plan to defend my dissertation and finish my work in April 2019.
+
+
 ## Job Market
 
 <p align="center">
@@ -30,19 +35,18 @@ author_profile: true
 <b>Matt Lutey</b> -->
 
 <!-- ## Submitted -->
-
-<!-- ## In progress
-<!-- <b>[Survival Analysis of Ichimoku Cloud Indicator](wp1)</b><br>
-<b>Matt Lutey</b>
+## In progress
+<b>[Survival Analysis of Ichimoku Cloud Indicator](wp1)</b><br>
+<!-- <b>Matt Lutey</b> -->
 
 <b>[Performance Evaluation of Stock Selection Strategies](wp2)</b><br>
- <b>Matt Lutey</b> -->
+ <!-- <b>Matt Lutey</b> -->
 
-<!-- <b>[A Primer on Ichimoku Cloud Indicator](wp3)</b><br>
-<b>Matt Lutey</b> -->
+<b>[A Primer on Ichimoku Cloud Indicator](wp3)</b><br>
+<!-- <b>Matt Lutey</b> -->
 
-<!-- <b>[Forecasting Equity Premium with Ichimoku Cloud](wp4)</b><br>
-<b>Matt Lutey</b> -->
-<!--
+<b>[Forecasting Equity Premium with Ichimoku Cloud](wp4)</b><br>
+<!-- <b>Matt Lutey</b> -->
+
 <b>[Pay Gap: Do outside CEOs earn unfair compensation](wp5)</b><br>
-<b>Matt Lutey</b> -->
+<!-- <b>Matt Lutey</b> -->

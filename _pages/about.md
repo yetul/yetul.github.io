@@ -13,8 +13,7 @@ redirect_from:
 <!-- <p align="center">
   <img src="https://yetul.github.io/files/HS.jpg?raw=true" alt="Photo" style="width: 500px;"/>
 </p> -->
-* I'm a Ph.D. candidate in finance at the [University of New Orleans.](https://www.uno.edu)
-* [Click here for my current CV.](/files/lutey.pdf)
+* I'm a Ph.D. candidate in finance at the [University of New Orleans.](https://www.uno.edu) [Click here for my current CV.](/files/lutey.pdf)
  <!-- * I'm a Ph.D. candidate in finance at the [University of New Orleans](https://www.uno.edu) [Curriculum Vitae](/files/lutey.pdf) My Doctoral Advisor is [Neal Maroney](http://www.uno.edu/coba/EconomicsFinance/FacultyStaff/NMaroney.aspx). -->
  <!-- * I graduated with my Bachelors of Science and Masters in Business Administration from [Northern Michigan University](https://www.nmu.edu) -->
 <!--* I published in Cabel's listed journals while attending my MBA [[Recent Publication]](/files/lutey2.pdf)-->
@@ -24,7 +23,9 @@ redirect_from:
 <!-- [conferences](/conferences), [service](/service), and [contact info](/contact)  -->
 
 <!-- * I'm interested in collaborating with other students and scholars for new works including game theory, corporate finance, market efficiency, and other studies. Please [contact](/contact) me if you are interested in working together. -->
+* View my [publications](/publications), [teaching evaluations](/teaching), [conference activity](/conferences), [Vitae](/files/lutey.pdf)
+* Writing Samples: [publication 1 PDF](/files/lutey2.pdf), [publication 2 PDF](/files/lutey1.pdf), [publication 3 PDF](/files/opbm2.pdf)
+* Job Market Research: [Dissertation](/workingpapers)
 
 ## Recent News
 * I am attending [FMA](http://fma.org) for their San Diego conference.
-* I defended my dissertation proposal on 9/27/2018. [Click here for a description](/workingpapers)
