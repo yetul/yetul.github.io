@@ -24,7 +24,7 @@ redirect_from:
 
 <!-- * I'm interested in collaborating with other students and scholars for new works including game theory, corporate finance, market efficiency, and other studies. Please [contact](/contact) me if you are interested in working together. -->
 * View my [publications](/publications), [teaching evaluations](/teaching), [conference activity](/conferences), [Vitae](/files/lutey.pdf)
-* Writing Samples: [publication 1 PDF](/files/lutey2.pdf), [publication 2 PDF](/files/lutey1.pdf), [publication 3 PDF](/files/opbm2.pdf)
+* Writing Samples: [publication 1 PDF](/files/lutey2.pdf) <!--[publication 2 PDF](/files/lutey1.pdf), [publication 3 PDF](/files/opbm2.pdf)-->
 * Job Market Research: [Dissertation](/workingpapers)
 
 ## Recent News
