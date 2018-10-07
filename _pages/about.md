@@ -21,13 +21,13 @@ redirect_from:
 <!-- * My research interests are in [market efficiency tests](/workingpapers), and [program trading](/workingpapers). -->
  <!-- [[Current Research]](/workingpapers)<!--[Working Papers](/workingpapers) -->
 <!-- * Please [contact](/contact) me if you are interested in working together. -->  
-<!-- [conferences](/conferences), [service](/service), and [contact info](/contact)  -->
+<!--[conferences](/conferences), [service](/service), and [contact info](/contact) 
 
 <!-- * I'm interested in collaborating with other students and scholars for new works including game theory, corporate finance, market efficiency, and other studies. Please [contact](/contact) me if you are interested in working together. -->
-* Writing Samples: [Click for my writing sample [[PDF]]](/files/lutey2.pdf) <!--[publication 2 PDF](/files/lutey1.pdf), [publication 3 PDF](/files/opbm2.pdf)-->
-* Job Market Research: [Click for my essay one description](/workingpapers)
+* Writing Samples: [Publication 1 PDF](/files/lutey2.pdf), [publication 2 PDF](/files/lutey1.pdf), [publication 3 PDF](/files/opbm2.pdf)
+* Job Market Research: [Dissertation](/workingpapers)
 
-* I am job market for Fall 2019.
+* I am job market for 2019.
 
 * This website has my [publications](/publications), [teaching evaluations](/teaching), [conference activity](/conferences), [Vitae](/files/lutey.pdf), [service activity](/service), and [contact](/contact) information.
 
