@@ -30,6 +30,11 @@ redirect_from:
 * I am job market for 2019.
 
 * This website has my [publications](/publications), [teaching evaluations](/teaching), [conference activity](/conferences), [vitae](/files/cv.pdf), [service activity](/service), and [contact](/contact) information.
+<!-- * Teaching Statement [PDF](/files/teaching.pdf)
+* Research Statement [PDF](/files/research.pdf)
+* Instructor Visitation [Visit PDF](/files/visit.pdf) -->
 
 ## Recent News
 * I am attending [FMA](http://fma.org) for their San Diego conference.
+* I defended my dissertation proposal on 9/27/2018.
+* I plan to defend my dissertation and finish my work in April 2019.
