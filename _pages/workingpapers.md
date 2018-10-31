@@ -12,9 +12,9 @@ author_profile: true
 
 ## Job Market
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://yetul.github.io/files/HS.jpg?raw=true" alt="Photo" style="width: 500px;"/>
-</p>
+</p> -->
 
 <!-- * This shows the non-linear price patterns most commonly used by technical trade that have been detected using a sample stock. Each pattern is defined as a set of rules relating to price minima, maxima, and their relative position to each other. For example, a head and shoulder pattern consists of 5 extrema. E1 must be a maximum; E3 > E1; E3 > E5; E1 and E5 must be within 1.5% of their average; E2 and E4 must be within 1.5% of their average. The other pattern are detailed by Lo, Mamaysky, and Wang (LMW, 2000). The detection of each patterns requires 35 daily prices. When selecting a pattern, only periods during which the specific pattern was detected can be displayed using the second drop-down menu.<br>
 
