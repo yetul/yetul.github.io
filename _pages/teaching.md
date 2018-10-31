@@ -6,7 +6,8 @@ author_profile: true
 ---
 ## Instructor
 
-<b>[Click for Student Comments](/files/studentcomment.pdf)</b>
+<b>[Click for Student Evaluations](/files/studentcomment.pdf)</b>
+<b>Teaching Statement [Click PDF](/files/teaching.docx)</b>
 
 <b>[ECON1204: Macroeconomics](http://www.uno.edu/registrar/catalog/1617catalog/courses-of-instruction/ECON.aspx)</b> On schedule Fall 2018<br>
 Department of Economics and Finance, <b>University of New Orleans</b><br>
