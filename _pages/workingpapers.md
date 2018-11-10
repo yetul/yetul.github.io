@@ -8,7 +8,7 @@ author_profile: true
 
 * I defended my dissertation proposal on 9/27/2018.
 * I plan to defend my dissertation and finish my work in April 2019.
-* Research Statement [Click PDF](/files/research.docx)
+* Research Statement [Click PDF](/files/research.pdf)
 
 
 ## Job Market

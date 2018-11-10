@@ -28,8 +28,8 @@ redirect_from:
 * Job Market Research: [Dissertation](/workingpapers)
 
 * I am job market for 2019.
-* Teaching Statement [Click PDF](/files/teaching.docx)
-* Research Statement [Click PDF](/files/research.docx)
+* Teaching Statement [Click PDF](/files/teaching.pdf)
+* Research Statement [Click PDF](/files/research.pdf)
 
 <!-- * This website has my [publications](/publications), [teaching evaluations](/teaching), [conference activity](/conferences), [vitae](/files/cv.pdf), [service activity](/service), and [contact](/contact) information. -->
 
