@@ -14,6 +14,7 @@ redirect_from:
   <img src="https://yetul.github.io/files/HS.jpg?raw=true" alt="Photo" style="width: 500px;"/>
 </p> -->
 * I'm a Ph.D. candidate in finance at the [University of New Orleans.](https://www.uno.edu)
+* I am job market for 2019.
 * [Click here for my current CV.](/files/cv.pdf)
 * [Click here for my resume.](/files/resume.pdf)
  <!-- * I'm a Ph.D. candidate in finance at the [University of New Orleans](https://www.uno.edu) [Curriculum Vitae](/files/lutey.pdf) My Doctoral Advisor is [Neal Maroney](http://www.uno.edu/coba/EconomicsFinance/FacultyStaff/NMaroney.aspx). -->
@@ -27,8 +28,6 @@ redirect_from:
 <!-- * I'm interested in collaborating with other students and scholars for new works including game theory, corporate finance, market efficiency, and other studies. Please [contact](/contact) me if you are interested in working together. -->
 * Publications: [Publication 1 PDF](/files/lutey2.pdf), [Publication 2 PDF](/files/lutey1.pdf), [Publication 3 PDF](/files/opbm2.pdf)
 * Job Market Research: [Dissertation](/workingpapers)
-
-* I am job market for 2019.
 * Teaching Statement [Click PDF](/files/teaching.pdf)
 * Research Statement [Click PDF](/files/research.pdf)
 
