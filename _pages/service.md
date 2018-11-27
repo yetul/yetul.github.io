@@ -13,6 +13,7 @@ author_profile: true
 ## Academic
 
 <b> Discussant - Southwestern Finance Association (2016), Southern Finance Association (2018) </b>
+
 <b> Committee Member - Eastern Finance Association (2018) </b>
 
 <!-- ## Service -->
