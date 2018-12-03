@@ -35,6 +35,5 @@ redirect_from:
 
 
 ## Recent News
-* I am attending [FMA](http://fma.org) for their San Diego conference.
 * I defended my dissertation proposal on 9/27/2018.
 * I plan to defend my dissertation and finish my work in April 2019.
