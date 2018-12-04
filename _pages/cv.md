@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<b>[Click this link for an up-to-date CV.](/files/cv.pdf)</b>
+<b>[Click this link for an up-to-date CV.](/files/Matt_Lutey_CV_1242018_edit.pdf)</b>

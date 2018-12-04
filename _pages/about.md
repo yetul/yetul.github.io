@@ -15,7 +15,7 @@ redirect_from:
 </p> -->
 * I'm a Ph.D. candidate in finance at the [University of New Orleans.](https://www.uno.edu)
 * I am job market for 2019.
-* [Click here for my current CV.](/files/cv.pdf)
+* [Click here for my current CV.](/files/Matt_Lutey_CV_1242018_edit.pdf)
 * [Click here for my resume.](/files/resume.pdf)
  <!-- * I'm a Ph.D. candidate in finance at the [University of New Orleans](https://www.uno.edu) [Curriculum Vitae](/files/lutey.pdf) My Doctoral Advisor is [Neal Maroney](http://www.uno.edu/coba/EconomicsFinance/FacultyStaff/NMaroney.aspx). -->
  <!-- * I graduated with my Bachelors of Science and Masters in Business Administration from [Northern Michigan University](https://www.nmu.edu) -->
