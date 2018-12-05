@@ -19,7 +19,7 @@ author_profile: true
 
 * This shows the non-linear price patterns most commonly used by technical trade that have been detected using a sample stock. Each pattern is defined as a set of rules relating to price minima, maxima, and their relative position to each other. For example, a head and shoulder pattern consists of 5 extrema. E1 must be a maximum; E3 > E1; E3 > E5; E1 and E5 must be within 1.5% of their average; E2 and E4 must be within 1.5% of their average. The other pattern are detailed by Lo, Mamaysky, and Wang (LMW, 2000). The detection of each patterns requires 35 daily prices. When selecting a pattern, only periods during which the specific pattern was detected can be displayed using the second drop-down menu.<br>
 
-* Technical traders often search for these patterns as mean to extract information on future stock prices. This shows the sample stock price and its smoothed price (used to approximate a technician's view) over a 35 day period. Vertical lines  outline the extrema used in defining the pattern. Each pattern is defined as a set of rules relating to price minima, maxima, and their relative position to each other.<br> -->
+* Technical traders often search for these patterns as mean to extract information on future stock prices. This shows the sample stock price and its smoothed price (used to approximate a technician's view) over a 35 day period. Vertical lines  outline the extrema used in defining the pattern. Each pattern is defined as a set of rules relating to price minima, maxima, and their relative position to each other.<br>
 
 * This research discusses nonlinear patterns common in technical trading circles (i.e. Head and Shoulders) which are identified by five consecutive extrema. E1 must be a maximum, E3 > E1, E3 > E5, E1 and E5 must be within 1.5 percent of their average, and E2 and E4 must be within 1.5 percent of their average. The detection of each patterns requires 35 daily prices. Technical traders often search for these patterns as a way to extract information about future prices. The full pattern definitions are outlined in Lo, Mamysky, and Wang (LMW, 2000). The vertical lines show the extrema used in defining the pattern. Each pattern is defined as a set of rules relating to price minima, maxima, and their relative position to each other.
 
@@ -37,8 +37,8 @@ author_profile: true
 
 <!-- ## Submitted -->
 ## In progress
-<b>[Survival Analysis of Ichimoku Cloud Indicator](/publications/wp1)</b><br>
-<!-- <b>Matt Lutey</b> -->
+<!-- <b>[Survival Analysis of Ichimoku Cloud Indicator](/publications/wp1)</b><br>
+<!-- <b>Matt Lutey</b> --> -->
 
 <b>[Performance Evaluation of Stock Selection Strategies](/publications/wp2)</b><br>
  <!-- <b>Matt Lutey</b> -->
@@ -46,8 +46,8 @@ author_profile: true
 <b>[A Primer on Ichimoku Cloud Indicator](/publications/wp3)</b><br>
 <!-- <b>Matt Lutey</b> -->
 
-<b>[Forecasting Equity Premium with Ichimoku Cloud](/publications/wp4)</b><br>
-<!-- <b>Matt Lutey</b> -->
+<!-- <b>[Forecasting Equity Premium with Ichimoku Cloud](/publications/wp4)</b><br>
+<!-- <b>Matt Lutey</b> --> -->
 
 <b>[Pay Gap: Do outside CEOs earn unfair compensation](/publications/wp5)</b><br>
 <!-- <b>Matt Lutey</b> -->
