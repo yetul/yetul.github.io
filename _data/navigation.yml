@@ -18,9 +18,9 @@ main:
 - title: "Service"
   url: /service/
 
-#- title: "Contact"
- # url: /contact/
-  #   url: /workingpapers/
-  #
+- title: "Contact"
+ url: /contact/
+  #  url: /workingpapers/
+
  - title: "Seminars & Tutorials"
    url: /talksand/
