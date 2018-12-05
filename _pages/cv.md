@@ -1,5 +1,5 @@
 ---
-layout: archive
+<!--layout: archive-->
 title: "Matthew Lutey"
 permalink: /cv/
 author_profile: true
