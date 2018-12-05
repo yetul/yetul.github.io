@@ -7,13 +7,13 @@ author_profile: true
 ## Other - Finance
 
 <b>[An Application of Can Slim Investing in the Dow Jones Benchmark](canslim3)</b> <br>
-<b>M Lutey</b>, MK Hassan, D Rayome <i>Asian Journal of Economic Modeling</i>. <b>AJEM 2018</b>.
+<b>M Lutey</b>, MK Hassan, D Rayome <i>Asian Journal of Economic Modeling</i>. <b>AJEM 2018</b>.[[PDF]](/files/lutey2.pdf)
 
 <b>[OPBM II: An Interpretation of the CAN SLIM Investment Strategy](canslim2)</b> <br>
-<b>M Lutey</b>, M Crum, D Rayome, <i>MBAA Conference</i><b>JAF 2014</b>
+<b>M Lutey</b>, M Crum, D Rayome, <i>MBAA Conference</i><b>JAF 2014</b> [[PDF]](/files/opbm2.pdf)
 
 <b>[Outperforming the Broad Market: An Application of Can Slim Strategy](canslim1)</b> <br>
-<b>M Lutey</b>, M Crum, D Rayome.<i>Academic Society of Business and Behavioral Sciences</i> <b>ASBBS e-journal 2013</b>.
+<b>M Lutey</b>, M Crum, D Rayome.<i>Academic Society of Business and Behavioral Sciences</i> <b>ASBBS e-journal 2013</b>.[[PDF]](/files/lutey1.pdf)
 
 
 <!-- ## Working Papers
