@@ -1,14 +1,11 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications [Google Scholar Profile](https://scholar.google.com/citations?user=S0Ls70oAAAAJ&hl=en)"
 permalink: /publications/
 author_profile: true
 ---
 
-<b>[Publications | Google Scholar Profile](https://scholar.google.com/citations?user=S0Ls70oAAAAJ&hl=en)</b>
-<br>
-
-## Publications
+## CAN SLIM / Other - Finance
 
 <b>[An Application of Can Slim Investing in the Dow Jones Benchmark](canslim3)</b> <br>
 <b>M Lutey</b>, MK Hassan, D Rayome <i>Asian Journal of Economic Modeling</i>. <b>AJEM 2018</b>.
