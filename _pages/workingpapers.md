@@ -1,5 +1,5 @@
 ---
-layout: archive
+<!--layout: archive-->
 title: "Working Paper(s)"
 permalink: /workingpapers/
 author_profile: true
@@ -8,7 +8,7 @@ author_profile: true
 
 * I defended my dissertation proposal on 9/27/2018.
 * I plan to defend my dissertation and finish my work in April 2019.
-* Research Statement [Click PDF](/files/research.pdf)
+* Research Statement [[PDF]](/files/research.pdf)
 
 
 ## Job Market
@@ -38,7 +38,7 @@ author_profile: true
 <!-- ## Submitted -->
 ## In progress
 <!-- <b>[Survival Analysis of Ichimoku Cloud Indicator](/publications/wp1)</b><br>
-<!-- <b>Matt Lutey</b> --> -->
+<!-- <b>Matt Lutey</b> --> 
 
 <b>[Performance Evaluation of Stock Selection Strategies](/publications/wp2)</b><br>
  <!-- <b>Matt Lutey</b> -->
@@ -47,7 +47,7 @@ author_profile: true
 <!-- <b>Matt Lutey</b> -->
 
 <!-- <b>[Forecasting Equity Premium with Ichimoku Cloud](/publications/wp4)</b><br>
-<!-- <b>Matt Lutey</b> --> -->
+<!-- <b>Matt Lutey</b> --> 
 
 <b>[Pay Gap: Do outside CEOs earn unfair compensation](/publications/wp5)</b><br>
 <!-- <b>Matt Lutey</b> -->
