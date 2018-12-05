@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## CAN SLIM / Other - Finance
+## Other - Finance
 
 <b>[An Application of Can Slim Investing in the Dow Jones Benchmark](canslim3)</b> <br>
 <b>M Lutey</b>, MK Hassan, D Rayome <i>Asian Journal of Economic Modeling</i>. <b>AJEM 2018</b>.
