@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Conferences
 
-<b>[Finance Management Association](https://www.fma.org)</b> Forthcoming Fall 2018<br>
+<b>[Finance Management Association](https://www.fma.org)</b> Fall 2018<br>
 San Diego,CA <b>Attendee</b><br>
 
 <b>[World Business Institute](http://www.worldbizins.org/)</b> Summer 2017<br>
