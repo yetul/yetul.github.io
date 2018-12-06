@@ -9,11 +9,11 @@ author_profile: true
 <!--<b>[Student Comments [PDF]](/files/studentcomment.pdf)</b>-->
 <!--<b>[Teaching Statement [PDF]](/files/teaching.pdf)</b>-->
 
-<b>[ECON1203: Microeconomics](http://www.uno.edu/registrar/catalog/1617catalog/courses-of-instruction/ECON.aspx)</b> Spring 2019<br>
+<b>[ECON1203: Microeconomics](http://www.uno.edu/registrar/catalog/1617catalog/courses-of-instruction/ECON.aspx)</b>On Schedule Spring 2019<br>
 Department of Economics and Finance, <b>University of New Orleans</b><br>
 
 
-<b>[ECON1204: Macroeconomics](http://www.uno.edu/registrar/catalog/1617catalog/courses-of-instruction/ECON.aspx)</b> On schedule Fall 2018<br>
+<b>[ECON1204: Macroeconomics](http://www.uno.edu/registrar/catalog/1617catalog/courses-of-instruction/ECON.aspx)</b> In Progress Fall 2018<br>
 Department of Economics and Finance, <b>University of New Orleans</b><br>
 <b>[[Syllabus]](/files/syllabusecon1204.pdf)</b>
 
