@@ -42,14 +42,20 @@ redirect_from:
 * October 11th, 2018 - I attended [Finance Management Association (FMA)](https://www.fma.org) in San Diego, CA.
 * September 27th, 2018 - I defended my dissertation proposal titled "Reliability of Technical Stock Price Patterns and Conditional Returns".
 * May 8th, 2018 - "An Application of CAN SLIM Investing in the Dow Jones Benchmark" was published in the [Asian Journal of Economic Modeling (AJEM)](http://www.aessweb.com/journals/5009) and listed with Cabel's.[[PDF]](/files/lutey2.pdf)
-* June 15th, 2017 - "An Application of CAN SLIM Investing in the Dow Jones Benchmark" won a best journal prize award at WBI.
-* June 15th, 2017 - I presented "An Application of CAN SLIM Investing in the Dow Jones Benchmark" and discussed a paper at the [World Business Institute (WBI)](http://www.worldbizins.org) in New York, NY.
+* August 20th, 2017 - Won best prize for a journal award Global Review of Accounting and Finance Paper 315: Mr. Matthew Lutey and Dr. David Rayome An Application of CAN SLIM Investing in the Dow Jones Benchmark.
+* June 10th, 2017 - I presented "An Application of CAN SLIM Investing in the Dow Jones Benchmark" and discussed a paper at the [World Business Institute (WBI)10-11 July, 2017
+Sheraton LaGuardia East Hotel, New York, USA ](http://www.worldbizins.org/conference/details/11). 
 * May 10th, 2017 - "An Application of CAN SLIM Investing in the Dow Jones Benchmark" was rejected with an option to resubmit from [FBDJ](https://www.fbdonline.org/Journal).
 * February 13th, 2017 - "An Application of CAN SLIM Investing in the Dow Jones Benchmark" was submitted for publication in the Federation of Business Disciplines Journal (FBDJ) .
+* December 12th, 2016 - Submitted a model to the Tulane algorithm trading competition sponsored by Equitas Capital Advisors, LLC in New Orleans, LA. 
+* May 1st, 2016 - First place in Tulane algorithm trading competition sponsored by Equitas Capital Advisors, LLC in New Orleans, LA. 
+* April 29th, 2016 - Submitted a model to the Tulane algorithm trading competition sponsored by Equitas Capital Advisors, LLC in New Orleans, LA. 
 * April 19th, 2016 - An Application of CAN SLIM Investing in the Dow Jones Benchmark" was invited for publication in the Federation of Business Disciplines Journal (FBDJ). 
 * March 10th, 2016 - I presented "An Application of CAN SLIM Investing in the Dow Jones Benchmark" and was a discussant at [Southwestern Finance Association - 55th Annual Meeting (SWFA)](http://mailerspostmark.org) in Oklahoma City, OK.
 * April 21st, 2016 - My paper was invited for publication in the Academy of Economics and Finance Journal (AEFJ).
 * February 10th, 2016 -  I presented "An Application of CAN SLIM Investing in the Dow Jones Benchmark" at the Academy of Economics and Finance [(AEF)](https://www.economics-finance.org) in Pensacola, Fl.
+* May 8th, 2015 - 2nd place in Tulane algorithmic trading competition. 
+* May 1st, 2015 - Submitted a model to the Tulane algorithm trading competition sponsored by Equitas Capital Advisors, LLC in New Orleans, LA. 
 * December 1st, 2014 - "OPBM II An Application of CAN SLIM Investing" was published in the Journal of Accounting and Finance [(JAF)](http://www.na-businesspress.com/jafopen.html)[[PDF]](/files/opbm2.pdf) .
 * March 10th, 2014 -  I presented "OPBM II An Application of CAN SLIM Investing System" and served as a discussant at the [MBAA International Confeence at the Palmer House Hilton Hotel • Chicago, IL](https://mbaainternational.org/)
 * May 5th, 2013 - "Out Performing the Broad Market, An Application of CAN SLIM Investing" was published in Cabel's [e-journal](/files/lutey1.pdf).
