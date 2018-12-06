@@ -43,6 +43,7 @@ redirect_from:
 * September 27th, 2018 - I defended my dissertation proposal titled ["Reliability of Technical Stock Price Patterns and Conditional Returns"](/workingpapers).
 * May 8th, 2018 - "An Application of CAN SLIM Investing in the Dow Jones Benchmark" was published in the Cabell's listed [Asian Journal of Economic Modeling (AJEM)](http://www.aessweb.com/journals/5009). [[PDF]](/files/lutey2.pdf)
 * August 20th, 2017 - Won best prize for a journal award Global Review of Accounting and Finance Paper 315: Mr. Matthew Lutey and Dr. David Rayome An Application of CAN SLIM Investing in the Dow Jones Benchmark.
+* August 11th, 2017 - I graduated with my M.S. in Financial Economics at the University of New Orleans.
 * June 10th, 2017 - I presented "An Application of CAN SLIM Investing in the Dow Jones Benchmark" and discussed a paper at the [World Business Institute (WBI)](http://www.worldbizins.org/conference/details/11) 10-11 July, 2017
 Sheraton LaGuardia East Hotel, New York, USA.
 * May 10th, 2017 - "An Application of CAN SLIM Investing in the Dow Jones Benchmark" was given a revise and resubmit from [FBDJ](https://www.fbdonline.org/Journal).
@@ -56,13 +57,21 @@ Sheraton LaGuardia East Hotel, New York, USA.
 * February 10th, 2016 -  I presented "An Application of CAN SLIM Investing in the Dow Jones Benchmark" at the [Academy of Economics and Finance (AEF)](https://www.economics-finance.org) in Pensacola, Fl.
 * May 8th, 2015 - 2nd place in Tulane algorithmic trading competition.
 * May 1st, 2015 - Submitted a model to the Tulane algorithm trading competition sponsored by [Equitas Capital Advisors, LLC](http://www.equitas-capital.com/) in New Orleans, LA. I submitted with one other person from the Tulane Masters in Management Energy Specialization program.
-* December 1st, 2014 - "OPBM II An Application of CAN SLIM Investing" was published in the [Journal of Accounting and Finance (JAF)](http://www.na-businesspress.com/jafopen.html)[[PDF]](/files/opbm2.pdf) .
+* December 1st, 2014 - "OPBM II An Application of CAN SLIM Investing" was published in the [Journal of Accounting and Finance (JAF)](http://www.na-businesspress.com/jafopen.html).[[PDF]](/files/opbm2.pdf).
+* August, 2014 - I started my Ph.D. in Financial Economics at the University of New Orleans.
+* April 2nd, 2014 - I got accepted in to a Ph.D. program in Financial Economics at the University of New Orleans.
 * March 10th, 2014 -  I presented "OPBM II An Application of CAN SLIM Investing System" and served as a discussant at the [MBAA International](https://mbaainternational.org/) Confeence at the Palmer House Hilton Hotel • Chicago, IL
+* December 13th, 2013 I graduated with my MBA from Northern Michigan University.
 * December 2nd, 2013 - Financial Planning Seminar. Presented a financial planning seminar to Northern Michigan University undergraduate students. [View my Seminar](http://mediasite.nmu.edu/NMUMediasite/Play/c667aa85bd964bbd9ec943b7c855d68a1d)
-* May 5th, 2013 - "Out Performing the Broad Market, An Application of CAN SLIM Investing" was published in the [ASBBS e-journal][[PDF]](/files/lutey1.pdf). Listed with Cabell's.
+* May 5th, 2013 - "Out Performing the Broad Market, An Application of CAN SLIM Investing" was published in the Cabell's listed ASBBS e-journal.[[PDF]](/files/lutey1.pdf).
 * April 5th, 2013 - Technical Analysis course. Created and presented a one hour and thirty minute technical analysis course to Northern Michigan University Undergraduate Students. [View Presentation](http://mediasite.nmu.edu/NMUMediasite/Play/b18d3c03b8b64895aed31d86e86a77211d?catalog=3cc6379d-30e7-40de-85d7-295eef8fda1b)
 * February 22nd, 2013 - My paper "An Application of CAN SLIM Investing" won a best paper for the finance track award at [ASBBS](http://asbbs.org).
 * February 21st, 2013 - I presented "An Application of CAN SLIM Investing" and served as a discussant at the [American Society of Business and Behavioral Science ASBBS 20th Annual Conference](http://asbbs.org), Las Vegas: February 21-24, 2013.
+* January, 2012 - I became president of the student managed investment fund (SMIF) at Northern Michigan University.
+* August, 2011 - I started my M.B.A. at Northern Michigan University.
+* August, 2011 - I graduated with a B.S.
+* March, 2010 - I attended the R.I.S.E. conference in Dayton Ohio with the Student managed Investment fund.
+* August, 2007 - I started my Bachelors of Science as a pre-med student at Northern Michigan University.
 * June 20th, 2007 - [Health Occupation Students of America](http://www.hosa.org/) [National Leadership Conference](http://www.hosa.org/nlc/nlc.html), June 20-23 – Marriott World Center Orlando, Florida. Presented on Dental Hygiene with two other students.
 
 
