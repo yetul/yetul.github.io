@@ -41,7 +41,7 @@ redirect_from:
 * November 10th, 2018 - I served as a committee member and reviewer for [Eastern Finance Association (EFA) 2019 Meeting. Miami, FL - April 10-13, 2019](https://www.easternfinance.online).
 * October 11th, 2018 - I attended [Finance Management Association (FMA)](https://www.fma.org) in San Diego, CA.
 * September 27th, 2018 - I defended my dissertation proposal titled "Reliability of Technical Stock Price Patterns and Conditional Returns".
-* May 8th, 2018 - "An Application of CAN SLIM Investing in the Dow Jones Benchmark" was published in the [Asian Journal of Economic Modeling (AJEM)](http://www.aessweb.com/journals/5009) and listed with Cabel's.[[PDF]](/files/lutey2.pdf)
+* May 8th, 2018 - "An Application of CAN SLIM Investing in the Dow Jones Benchmark" was published in the [Asian Journal of Economic Modeling (AJEM)](http://www.aessweb.com/journals/5009) and listed with Cabell's.[[PDF]](/files/lutey2.pdf)
 * June 15th, 2017 - "An Application of CAN SLIM Investing in the Dow Jones Benchmark" won a best journal prize award at WBI.
 * June 15th, 2017 - I presented "An Application of CAN SLIM Investing in the Dow Jones Benchmark" and discussed a paper at the [World Business Institute (WBI)](http://www.worldbizins.org) in New York, NY.
 * May 10th, 2017 - "An Application of CAN SLIM Investing in the Dow Jones Benchmark" was given a revise with an option to resubmit from [FBDJ](https://www.fbdonline.org/Journal).
@@ -52,6 +52,6 @@ redirect_from:
 * February 10th, 2016 -  I presented "An Application of CAN SLIM Investing in the Dow Jones Benchmark" at the Academy of Economics and Finance [(AEF)](https://www.economics-finance.org) in Pensacola, Fl.
 * December 1st, 2014 - "OPBM II An Application of CAN SLIM Investing" was published in the Journal of Accounting and Finance [(JAF)](http://www.na-businesspress.com/jafopen.html)[[PDF]](/files/opbm2.pdf) .
 * March 10th, 2014 -  I presented "OPBM II An Application of CAN SLIM Investing System" and served as a discussant at the [MBAA International Confeence at the Palmer House Hilton Hotel • Chicago, IL](https://mbaainternational.org/)
-* May 5th, 2013 - "Out Performing the Broad Market, An Application of CAN SLIM Investing" was published in Cabel's [e-journal](/files/lutey1.pdf).
+* May 5th, 2013 - "Out Performing the Broad Market, An Application of CAN SLIM Investing" was published in the Cabell's listed [ASBBS e-journal](/files/lutey1.pdf).
 * February 22nd, 2013 - My paper "An Application of CAN SLIM Investing" won a best paper for the finance track award at [ASBBS](http://asbbs.org).
 * February 21st, 2013 - I presented "An Application of CAN SLIM Investing" and served as a discussant at the American Society of Business and Behavioral Science ASBBS 20th Annual Conference, Las Vegas: February 21-24, 2013.
