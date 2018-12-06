@@ -37,6 +37,7 @@ redirect_from:
 
 ## Recent News
 
+* January 9th, 2019 - I submitted two papers to the ASBBS conference in Las Vegas, NV.
 * November 14th, 2018 - I discussed  “Earnings Management under Different Ownership and Corporate Governance Structure: A Natural Experiment with Master Limited Partnerships.” - Haiwei Chen, Surendranath Jory, Thanh Ngo. [Southern Finance Association (SFA)](http://www.southernfinance.org) Ashville, NC.
 * November 10th, 2018 - I served as a committee member and reviewer for [Eastern Finance Association (EFA)](https://www.easternfinance.online) 2019 Meeting. Miami, FL - April 10-13, 2019.
 * October 11th, 2018 - I attended [Finance Management Association (FMA)](https://www.fma.org) in San Diego, CA.
@@ -69,7 +70,7 @@ Sheraton LaGuardia East Hotel, New York, USA.
 * February 21st, 2013 - I presented "An Application of CAN SLIM Investing" and served as a discussant at the [American Society of Business and Behavioral Science ASBBS 20th Annual Conference](http://asbbs.org), Las Vegas: February 21-24, 2013.
 * January, 2012 - I became president of the student managed investment fund (SMIF) at Northern Michigan University.
 * August, 2011 - I started my M.B.A. at Northern Michigan University.
-* August, 2011 - I graduated with a B.S.
+* August, 2011 - I graduated with a B.S from Northern Michigan University.
 * March, 2010 - I attended the R.I.S.E. conference in Dayton Ohio with the Student managed Investment fund.
 * August, 2007 - I started my Bachelors of Science as a pre-med student at Northern Michigan University.
 * June 20th, 2007 - [Health Occupation Students of America](http://www.hosa.org/) [National Leadership Conference](http://www.hosa.org/nlc/nlc.html), June 20-23 – Marriott World Center Orlando, Florida. Presented on Dental Hygiene with two other students.
