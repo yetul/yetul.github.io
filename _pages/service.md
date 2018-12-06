@@ -11,8 +11,8 @@ author_profile: true
 <b>[New Orleans Track Club](https://runnotc.org/cgi-bin/volunteer_signup.pl) </b>
 
 ## Academic
-<b> Discussant - Southern Finance Association (2018) </b>
-<b> Committee Member - Eastern Finance Association (2018) </b>
+<b> Discussant - Southern Finance Association (2018) </b><br>
+<b> Committee Member - Eastern Finance Association (2018) </b><br>
 <b> Discussant - Southwestern Finance Association (2016) </b>
 
 <!-- ## Service -->
