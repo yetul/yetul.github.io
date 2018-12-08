@@ -37,7 +37,6 @@ redirect_from:
 
 ## Recent News
 
-* January 9th, 2019 - I submitted two papers to the ASBBS conference in Las Vegas, NV.
 * November 14th, 2018 - I discussed  “Earnings Management under Different Ownership and Corporate Governance Structure: A Natural Experiment with Master Limited Partnerships.” - Haiwei Chen, Surendranath Jory, Thanh Ngo. [Southern Finance Association (SFA)](http://www.southernfinance.org) Ashville, NC.
 * November 10th, 2018 - I served as a committee member and reviewer for [Eastern Finance Association (EFA)](https://www.easternfinance.online) 2019 Meeting. Miami, FL - April 10-13, 2019.
 * October 11th, 2018 - I attended [Finance Management Association (FMA)](https://www.fma.org) in San Diego, CA.
