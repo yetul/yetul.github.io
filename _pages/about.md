@@ -13,7 +13,7 @@ redirect_from:
 <!-- <p align="center">
   <img src="https://yetul.github.io/files/HS.jpg?raw=true" alt="Photo" style="width: 500px;"/>
 </p> -->
-* I'm a Ph.D. candidate in finance at the [University of New Orleans](https://www.uno.edu).<br>[[Click here for a current CV [PDF]]](/files/Matt_Lutey_CV_1242018_edit.pdf)
+* I'm a Ph.D. candidate in finance at the [University of New Orleans](https://www.uno.edu).
 * I plan to defend my dissertation and finish my work in April 2019.
 
 <!-- * [Click here for my resume.](/files/resume.pdf)
