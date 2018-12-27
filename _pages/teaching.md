@@ -15,7 +15,7 @@ Department of Economics and Finance, <b>University of New Orleans</b><br>
 
 <b>[ECON1204: Macroeconomics](http://www.uno.edu/registrar/catalog/1617catalog/courses-of-instruction/ECON.aspx)</b> In Progress Fall 2018<br>
 Department of Economics and Finance, <b>University of New Orleans</b><br>
-<b>[[Syllabus]](/files/syllabusecon1204.pdf)</b>
+<b>[[reviews]](econ1204)[[Syllabus]](/files/syllabusecon1204.pdf)</b>
 
 <b>[ECON1203: Microeconomics](http://www.uno.edu/registrar/catalog/1617catalog/courses-of-instruction/ECON.aspx)</b> Summer 2018<br>
 Department of Economics and Finance, <b>University of New Orleans</b><br>
