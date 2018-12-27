@@ -6,8 +6,8 @@ author_profile: true
 ---
 ## Instructor
 
-<!--<b>[Student Comments [PDF]](/files/studentcomment.pdf)</b>-->
-<!--<b>[Teaching Statement [PDF]](/files/teaching.pdf)</b>-->
+<b>[Student Comments [PDF]](/files/studentcomment.pdf)</b>
+|<b>[Teaching Statement [PDF]](/files/teaching.pdf)</b>
 
 <b>[ECON1203: Microeconomics](http://www.uno.edu/registrar/catalog/1617catalog/courses-of-instruction/ECON.aspx)</b>On Schedule Spring 2019<br>
 Department of Economics and Finance, <b>University of New Orleans</b><br>
