@@ -69,7 +69,7 @@ Sheraton LaGuardia East Hotel, New York, USA.
 * January, 2012 - I became president of the student managed investment fund (SMIF) at Northern Michigan University.
 * August, 2011 - I started my M.B.A. at Northern Michigan University.
 * August, 2011 - I graduated with a B.S from Northern Michigan University.
-* March, 2010 - I attended the R.I.S.E. conference in Dayton Ohio with the Student managed Investment fund.
+* March, 2011 - I attended the R.I.S.E. conference in Dayton Ohio with the Student managed Investment fund.
 * August, 2007 - I started my Bachelors of Science as a pre-med student at Northern Michigan University.
 * June 20th, 2007 - [Health Occupation Students of America](http://www.hosa.org/) [National Leadership Conference](http://www.hosa.org/nlc/nlc.html), June 20-23 – Marriott World Center Orlando, Florida. Presented on Dental Hygiene with two other students.
 

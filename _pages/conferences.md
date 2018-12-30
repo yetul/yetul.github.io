@@ -33,13 +33,13 @@ Oklahoma City,OK <b>Presenter, Discussant</b><br>
 <b>[Academy of Economics and Finance](https://www.economics-finance.org/)</b> Spring 2016<br>
 Pensacola,FL <b>Presenter</b><br>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://yetul.github.io/files/mattAEF.JPG?raw=true" alt="Photo" style="width: 500px;"/>
 </p>
 
 <p align="center">
   <img src="https://yetul.github.io/files/mattAEF1.JPG?raw=true" alt="Photo" style="width: 500px;"/>
-</p>
+</p> -->
 
 
 <b>[MBAA International](https://mbaainternational.org/)</b> Spring 2014<br>
@@ -58,19 +58,27 @@ Las Vegas,NV <b>Presenter, Discussant</b><br>
 <b>[Finance Management Association](https://www.fma.org)</b> Fall 2018<br>
 San Diego,CA <b>Attendee</b><br>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://yetul.github.io/files/mattSD.JPG?raw=true" alt="Photo" style="width: 500px;"/>
 </p>
 
 <p align="center">
   <img src="https://yetul.github.io/files/mattSD1.JPG?raw=true" alt="Photo" style="width: 500px;"/>
-</p>
+</p> -->
 
 <b>[Eastern Finance Association](https://www.easternfinance.online/)</b> Spring 2015<br>
 New Orleans,LA <b>Attendee</b><br>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://yetul.github.io/files/mattEFA.JPG?raw=true" alt="Photo" style="width: 500px;"/>
+</p> -->
+
+<b>[R.I.S.E](https://www.udayton.edu/business/)</b>
+March 2011 <br>
+Dayton, OH <b> Attendee</b><br>
+
+<p align="center">
+  <img src="https://yetul.github.io/files/rise.JPG?raw=true" alt="Photo" style="width: 500px;"/>
 </p>
 
 ## Awards
