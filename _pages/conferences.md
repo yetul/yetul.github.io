@@ -11,11 +11,11 @@ New York,NY <b>Presenter</b><br>
 <b> <span style="color:red">Best Journal Award</span> </b>
 
 <p align="center">
-  <img src="https://yetul.github.io/files/wbiattendance.jpg?raw=true" alt="Photo" style="width: 500px;"/>
+  <img src="https://yetul.github.io/files/wbiattendance.JPG?raw=true" alt="Photo" style="width: 500px;"/>
 </p>
 
 <p align="center">
-  <img src="https://yetul.github.io/files/wbibestjournal.jpg?raw=true" alt="Photo" style="width: 500px;"/>
+  <img src="https://yetul.github.io/files/wbibestjournal.JPG?raw=true" alt="Photo" style="width: 500px;"/>
 </p>
 
 <b>[Southwestern Finance Association](http://www.southwesternfinance.org/)</b> Spring 2016<br>
@@ -33,7 +33,7 @@ Las Vegas,NV <b>Presenter, Discussant</b><br>
 <b> <span style="color:red">Best Paper Award - Finance Track</span> </b>
 
 <p align="center">
-  <img src="https://yetul.github.io/files/bestpaper.jpg?raw=true" alt="Photo" style="width: 500px;"/>
+  <img src="https://yetul.github.io/files/bestpaper.JPG?raw=true" alt="Photo" style="width: 500px;"/>
 </p>
 
 ## Attendee
@@ -45,6 +45,8 @@ San Diego,CA <b>Attendee</b><br>
 New Orleans,LA <b>Attendee</b><br>
 
 ## Awards
+* May 1st, 2016 - First place in Tulane algorithm trading competition sponsored by [Equitas Capital Advisors, LLC](http://www.equitas-capital.com/) in New Orleans, LA.
+
 * May 8th, 2015 - 2nd place in Tulane algorithmic trading competition.
 * June 20th, 2007 - [Health Occupation Students of America](http://www.hosa.org/) [National Leadership Conference](http://www.hosa.org/nlc/nlc.html), June 20-23 – Marriott World Center Orlando, Florida. Presented on Dental Hygiene with two other students.
 
