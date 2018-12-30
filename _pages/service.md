@@ -6,7 +6,8 @@ author_profile: true
 ---
 ## Volunteer
 
-<b>[New Orleans Habitat for Humnanity](http://www.habitat-nola.org/restore/volunteer-at-restore/) </b>
+<b>[New Orleans Habitat for Humnanity](http://www.habitat-nola.org/restore/volunteer-at-restore/) </b><br>
+[[Letter from NORS]](/files/volunteer.pdf)
 
 <b>[New Orleans Track Club](https://runnotc.org/cgi-bin/volunteer_signup.pl) </b>
 
