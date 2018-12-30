@@ -41,11 +41,23 @@ Las Vegas,NV <b>Presenter, Discussant</b><br>
 <b>[Finance Management Association](https://www.fma.org)</b> Fall 2018<br>
 San Diego,CA <b>Attendee</b><br>
 
+<p align="center">
+  <img src="https://yetul.github.io/files/mattSD.JPG?raw=true" alt="Photo" style="width: 500px;"/>
+</p>
+
+<p align="center">
+  <img src="https://yetul.github.io/files/mattSD1.JPG?raw=true" alt="Photo" style="width: 500px;"/>
+</p>
+
 <b>[Eastern Finance Association](https://www.easternfinance.online/)</b> Spring 2015<br>
 New Orleans,LA <b>Attendee</b><br>
 
 ## Awards
 * May 1st, 2016 - First place in Tulane algorithm trading competition sponsored by [Equitas Capital Advisors, LLC](http://www.equitas-capital.com/) in New Orleans, LA.
+
+<p align="center">
+  <img src="https://yetul.github.io/files/algo1.JPG?raw=true" alt="Photo" style="width: 500px;"/>
+</p>
 
 * May 8th, 2015 - 2nd place in Tulane algorithmic trading competition.
 * June 20th, 2007 - [Health Occupation Students of America](http://www.hosa.org/) [National Leadership Conference](http://www.hosa.org/nlc/nlc.html), June 20-23 – Marriott World Center Orlando, Florida. Presented on Dental Hygiene with two other students.
