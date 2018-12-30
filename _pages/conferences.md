@@ -11,11 +11,11 @@ New York,NY <b>Presenter</b><br>
 <b> <span style="color:red">Best Journal Award</span> </b>
 
 <p align="center">
-  <img src="https://yetul.github.io/files/conference1.jpg?raw=true" alt="Photo" style="width: 500px;"/>
+  <img src="https://yetul.github.io/files/wbiattendance.jpg?raw=true" alt="Photo" style="width: 500px;"/>
 </p>
 
 <p align="center">
-  <img src="https://yetul.github.io/files/conference1.jpg?raw=true" alt="Photo" style="width: 500px;"/>
+  <img src="https://yetul.github.io/files/wbibestjournal.jpg?raw=true" alt="Photo" style="width: 500px;"/>
 </p>
 
 <b>[Southwestern Finance Association](http://www.southwesternfinance.org/)</b> Spring 2016<br>
@@ -33,7 +33,7 @@ Las Vegas,NV <b>Presenter, Discussant</b><br>
 <b> <span style="color:red">Best Paper Award - Finance Track</span> </b>
 
 <p align="center">
-  <img src="https://yetul.github.io/files/conference1.jpg?raw=true" alt="Photo" style="width: 500px;"/>
+  <img src="https://yetul.github.io/files/bestpaper.jpg?raw=true" alt="Photo" style="width: 500px;"/>
 </p>
 
 ## Attendee
