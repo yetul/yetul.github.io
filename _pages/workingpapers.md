@@ -31,23 +31,28 @@ author_profile: true
 * The second essay titled “Stock Price Pattern Recognition and Conditional Returns” focuses on supervised machine learning and computer vision to obtain statistics on the patterns, forecasting, and profitability. The contribution is that the patterns may be detected in stock chart images using rolling windows and allow for forecasting, pattern statistics, forecasting, and pattern detection without needing raw data.<br>
 * The contribution may lead to market efficiency and program trading, as well as potential future research aggregating the bias of pattern output and professional recommendation. Further works may include more pattern definitions.<br> -->
 
-* A. W. Lo, H. Mamaysky, J. Wang, "Foundations of Technical Analysis: Computational Algorithms, Statistical Inference, and Empirical Implementation," Journal of Finance, 55(4), 2000 pp.1705-1765.<br>
+* [A. W. Lo, H. Mamaysky, J. Wang, "Foundations of Technical Analysis: Computational Algorithms, Statistical Inference, and Empirical Implementation," Journal of Finance, 55(4), 2000 pp.1705-1765.[PDF]](/files/lmw2000.pdf)<br>
 <!-- <b>[Computer Vision and Classic Chart Patterns](jobmarket)</b><br>
 <b>Matt Lutey</b> -->
 
 <!-- ## Submitted -->
 ## In progress
-<!-- <b>[Survival Analysis of Ichimoku Cloud Indicator](/publications/wp1)</b><br>
-<!-- <b>Matt Lutey</b> -->
+<b>[Survival Analysis of Ichimoku Cloud Indicator](/publications/wp1)</b><br>
 
 <b>[Performance Evaluation of Stock Selection Strategies](/publications/wp2)</b><br>
- <!-- <b>Matt Lutey</b> -->
 
 <b>[A Primer on Ichimoku Cloud Indicator](/publications/wp3)</b><br>
-<!-- <b>Matt Lutey</b> -->
 
-<!-- <b>[Forecasting Equity Premium with Ichimoku Cloud](/publications/wp4)</b><br>
-<!-- <b>Matt Lutey</b> -->
+<b>[Forecasting Equity Premium with Ichimoku Cloud](/publications/wp4)</b><br>
 
 <b>[Pay Gap: Do outside CEOs earn unfair compensation](/publications/wp5)</b><br>
-<!-- <b>Matt Lutey</b> -->
+
+<b>[CAN SLIM and Technical Analysis](/publications/wp6)</b><br>
+
+<b>[CAN SLIM vs US Benchmarks](/publications/wp7)</b><br>
+
+<b>[Forecasting Risk Premium with Macro Variables](/publications/wp8)</b><br>
+
+<b>[Excess returns from Interest Rate Inversion](/publications/wp9)</b><br>
+
+<b>[CAN SLIM Live Testing](/publications/wp10)</b><br>
