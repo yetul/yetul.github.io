@@ -44,10 +44,9 @@ San Diego,CA <b>Attendee</b><br>
 <b>[Eastern Finance Association](https://www.easternfinance.online/)</b> Spring 2015<br>
 New Orleans,LA <b>Attendee</b><br>
 
-## Service
-
-
-
+## Awards
+* May 8th, 2015 - 2nd place in Tulane algorithmic trading competition.
+* June 20th, 2007 - [Health Occupation Students of America](http://www.hosa.org/) [National Leadership Conference](http://www.hosa.org/nlc/nlc.html), June 20-23 – Marriott World Center Orlando, Florida. Presented on Dental Hygiene with two other students.
 
 <!-- <b>[R.I.S.E. Conference](https://udayton.edu/business/academics/undergraduate/economics_and_finance/rise/index.php)</b> Spring 2012<br>
 Dayton, OH <b> Attendee </b> <br> -->

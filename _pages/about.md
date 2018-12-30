@@ -48,7 +48,7 @@ Sheraton LaGuardia East Hotel, New York, USA.
 * May 10th, 2017 - "An Application of CAN SLIM Investing in the Dow Jones Benchmark" was given a revise and resubmit from [FBDJ](https://www.fbdonline.org/Journal).
 * February 13th, 2017 - "An Application of CAN SLIM Investing in the Dow Jones Benchmark" was submitted for publication in the [Federation of Business Disciplines Journal (FBDJ)](https://www.fbdonline.org/Journal) .
 * December 12th, 2016 - Submitted a model to the Tulane algorithm trading competition sponsored by [Equitas Capital Advisors, LLC](http://www.equitas-capital.com/) in New Orleans, LA.
-* May 1st, 2016 - First place in Tulane algorithm trading competition sponsored by [Equitas Capital Advisors, LLC](http://www.equitas-capital.com/) in New Orleans, LA.
+* May 1st, 2016 - First place in Tulane algorithm trading competition sponsored by [Equitas Capital Advisors, LLC](http://www.equitas-capital.com/) in New Orleans, LA. [Photo](/files/algo1.JPG)
 * April 29th, 2016 - Submitted a model to the Tulane algorithm trading competition sponsored by [Equitas Capital Advisors, LLC](http://www.equitas-capital.com/) in New Orleans, LA.
 * April 19th, 2016 - An Application of CAN SLIM Investing in the Dow Jones Benchmark" was invited for publication in the Federation of Business Disciplines Journal (FBDJ).
 * March 10th, 2016 - I presented "An Application of CAN SLIM Investing in the Dow Jones Benchmark" and was a discussant at [Southwestern Finance Association - 55th Annual Meeting (SWFA)](http://mailerspostmark.org) in Oklahoma City, OK.
