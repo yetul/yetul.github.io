@@ -57,6 +57,7 @@ Sheraton LaGuardia East Hotel, New York, USA.
 * May 8th, 2015 - 2nd place in Tulane algorithmic trading competition.
 * May 1st, 2015 - Submitted a model to the Tulane algorithm trading competition sponsored by [Equitas Capital Advisors, LLC](http://www.equitas-capital.com/) in New Orleans, LA. I submitted with one other person from the Tulane Masters in Management Energy Specialization program.
 * December 1st, 2014 - "OPBM II An Application of CAN SLIM Investing" was published in the [Journal of Accounting and Finance (JAF)](http://www.na-businesspress.com/jafopen.html).[[PDF]](/files/opbm2.pdf).
+* August, 2014 - Privateer Graduate Award Recipient.
 * August, 2014 - I started my Ph.D. in Financial Economics at the University of New Orleans.
 * April 2nd, 2014 - I got accepted in to a Ph.D. program in Financial Economics at the University of New Orleans.
 * March 10th, 2014 -  I presented "OPBM II An Application of CAN SLIM Investing System" and served as a discussant at the [MBAA International](https://mbaainternational.org/) Confeence at the Palmer House Hilton Hotel • Chicago, IL
