@@ -247,7 +247,6 @@ GEM
     tzinfo-data (1.2018.7)
       tzinfo (>= 1.0.0)
     unicode-display_width (1.4.1)
-    wdm (0.1.1)
 
 PLATFORMS
   ruby
@@ -260,7 +259,6 @@ DEPENDENCIES
   jekyll-sitemap
   pkg-config
   tzinfo-data
-  wdm (~> 0.1.0)
 
 BUNDLED WITH
    1.17.2
