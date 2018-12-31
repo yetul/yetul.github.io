@@ -30,6 +30,11 @@ var addressPoints = [
     -117.1627714
   ],
   [
+    "Asheville, NC USA",
+    35.6009498,
+    -82.5540161
+  ],
+  [
     "Marquette, MI USA",
     46.5434914,
     -87.396433
