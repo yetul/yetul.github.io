@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "Conferences"
+title: "Conferences [View My Map](/talkmap)"
 permalink: /conferences/
 author_profile: true
 ---
