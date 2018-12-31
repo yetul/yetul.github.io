@@ -5,9 +5,9 @@ var addressPoints = [
     -115.149225
   ],
   [
-    "Oklahoma City, OK USA",
-    35.4729886,
-    -97.5170536
+    "New Orleans, LA USA",
+    29.9499323,
+    -90.0701156
   ],
   [
     "Pensacola, FL USA",
@@ -18,6 +18,11 @@ var addressPoints = [
     "Chicago, IL USA",
     41.8755616,
     -87.6244212
+  ],
+  [
+    "Oklahoma City, OK USA",
+    35.4729886,
+    -97.5170536
   ],
   [
     "Miami, FL USA",
@@ -38,11 +43,6 @@ var addressPoints = [
     "Marquette, MI USA",
     46.5434914,
     -87.396433
-  ],
-  [
-    "Ashville, NC USA",
-    44.4878561,
-    -68.1211205
   ],
   [
     "New York, NY USA",
