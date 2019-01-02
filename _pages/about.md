@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Matt Lutey"
+title: "Matthew Lutey"
 excerpt: "About me"
 author_profile: true
 redirect_from:

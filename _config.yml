@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Matt Lutey
+title                    : Matthew Lutey
 title_separator          : "-"
 name                     : simple cite
 description              : Ph.D. Candiate
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Matt Lutey"
+  name             : "Matthew Lutey"
   avatar           : "profile.jpg"
   bio              : "Ph.D. Candidate in Financial Economics"
   location         : "New Orleans, LA"
@@ -103,12 +103,12 @@ author:
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
-  tumblr           :
+  tumblr           :"luteymatt"
   twitter          : "luteymatt"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          :"matt lutey"
   wikipedia        :
 
 
