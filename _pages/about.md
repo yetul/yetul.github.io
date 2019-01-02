@@ -8,7 +8,7 @@ redirect_from:
  - /about.html
 ---
 <p align="center">
-  <img src="https://yetul.github.io/files/conference1.jpg?raw=true" alt="Photo" style="width: 500px;"/>
+  <img src="https://yetul.github.io/files/mattEFA.JPG?raw=true" alt="Photo" style="width: 500px;"/>
 </p>
 <!-- <p align="center">
   <img src="https://yetul.github.io/files/HS.jpg?raw=true" alt="Photo" style="width: 500px;"/>
