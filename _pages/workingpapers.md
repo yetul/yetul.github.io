@@ -1,6 +1,6 @@
 ---
 <!--layout: archive-->
-title: "Working Paper(s)"
+title: "Working Paper(s) Research Statement [[PDF]](/files/research.pdf)"
 permalink: /workingpapers/
 author_profile: true
 ---
