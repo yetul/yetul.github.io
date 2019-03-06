@@ -31,6 +31,7 @@ Department of Economics and Finance, <b>University of New Orleans</b><br>
 <b>[FIN3300: Principles of Financial Management](http://www.uno.edu/registrar/catalog/1617catalog/courses-of-instruction/FIN.aspx)</b> Fall 2017<br>
 Department of Economics and Finance, <b>University of New Orleans</b><br>
 <b>[Reviews](fin3300) [Syllabus](/files/syllabusfin3300.pdf) [Final](/files/finalfin3300.pdf)</b>
+<b> Teaching Demonstration: <a href="https://youtu.be/8pkSEN5VSAw">Click to View My Presentation</a> </b>
 
 <b>[QMBE4400: Business Statistics](http://www.uno.edu/registrar/catalog/1617catalog/courses-of-instruction/QMBE.aspx)</b> Summer 2017<br>
 Department of Economics and Finance, <b>University of New Orleans</b><br>
