@@ -6,7 +6,7 @@ title: "Teaching [Student Comments](/files/studentcomment.pdf)
 permalink: /teaching/
 author_profile: true
 ---
-## Instructor
+## Instructor with full responsibilities (Teaching Associate)
 
 <b>[Student Comments](/files/studentcomment.pdf)</b>
 |<b>[Teaching Statement](/files/teaching.pdf)</b> | <b>[Rate my Professor](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=2399191)
@@ -36,3 +36,9 @@ Department of Economics and Finance, <b>University of New Orleans</b><br>
 <b>[QMBE4400: Business Statistics](http://www.uno.edu/registrar/catalog/1617catalog/courses-of-instruction/QMBE.aspx)</b> Summer 2017<br>
 Department of Economics and Finance, <b>University of New Orleans</b><br>
 <b>[Reviews](qmbe4400) [Syllabus](/files/syllabusqmbe4400.pdf)</b>
+
+## Teaching Assistant
+
+## Tutor
+
+## Research Assistant
