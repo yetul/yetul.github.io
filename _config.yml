@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yetul/"
+  github           : #"yetul/"
   google_plus      :
   keybase          :
   instagram        :  #"mattlutey/"
@@ -108,7 +108,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : #MattLutey
+  youtube          : MattLutey
   wikipedia        :
 
 
