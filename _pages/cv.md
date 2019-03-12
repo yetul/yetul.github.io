@@ -1,6 +1,6 @@
 ---
 <!--layout: archive-->
-title: "Matthew Lutey [Click this link for an up-to-date CV.](/files/Matt_Lutey_CV1.pdf)"
+title: "Matthew Lutey [Click this link for an up-to-date CV.](/files/Matt_Lutey_CV2.pdf)"
 permalink: /cv/
 author_profile: true
 redirect_from:
