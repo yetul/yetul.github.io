@@ -1,7 +1,7 @@
 ---
 <!--layout: archive-->
-title: "Teaching [Student Comments](/files/studentcomment.pdf)
-[Teaching Statement](/files/teaching.pdf) [Rate my Professor](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=2399191)
+title: "Teaching
+[(Teaching Statement)](/files/teaching.pdf)
 "
 permalink: /teaching/
 author_profile: true
