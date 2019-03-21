@@ -15,8 +15,7 @@ redirect_from:
 </p> -->
 * I'm a Ph.D. candidate in finance at the [University of New Orleans](https://www.uno.edu).
 * I plan to defend my dissertation and finish my work in April 2019.
-* Teaching Demonstration: <a href="https://youtu.be/8pkSEN5VSAw">Click to View My Presentation</a>
-* Research Presentation <a href="https://youtu.be/tK9ILjDjIdc">Click to View My Presentation</a>
+
 
 <!-- * [Click here for my resume.](/files/resume.pdf)
  <!-- * I'm a Ph.D. candidate in finance at the [University of New Orleans](https://www.uno.edu) [Curriculum Vitae](/files/lutey.pdf) My Doctoral Advisor is [Neal Maroney](http://www.uno.edu/coba/EconomicsFinance/FacultyStaff/NMaroney.aspx). -->
