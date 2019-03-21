@@ -8,6 +8,9 @@ author_profile: true
 ---
 ## Instructor with full responsibilities (Teaching Associate)
 
+ * Teaching Demonstration: <a href="https://youtu.be/8pkSEN5VSAw">Click to View My Presentation</a>
+
+
 <b>[Student Comments](/files/studentcomment.pdf)</b>
 | <b>[Rate my Professor](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=2399191)</b>
 
