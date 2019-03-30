@@ -10,31 +10,6 @@ redirect_from:
 <p align="center">
   <img src="https://yetul.github.io/files/ml.jpg?raw=true" alt="Photo" style="width: 500px;"/>
 </p>
-<!-- <p align="center">
-  <img src="https://yetul.github.io/files/HS.jpg?raw=true" alt="Photo" style="width: 500px;"/>
-</p> -->
-* I'm a Ph.D. candidate in finance at the [University of New Orleans](https://www.uno.edu).
-* I plan to defend my dissertation and finish my work in April 2019.
-
-
-<!-- * [Click here for my resume.](/files/resume.pdf)
- <!-- * I'm a Ph.D. candidate in finance at the [University of New Orleans](https://www.uno.edu) [Curriculum Vitae](/files/lutey.pdf) My Doctoral Advisor is [Neal Maroney](http://www.uno.edu/coba/EconomicsFinance/FacultyStaff/NMaroney.aspx). -->
- <!-- * I graduated with my Bachelors of Science and Masters in Business Administration from [Northern Michigan University](https://www.nmu.edu) -->
-<!--* I published in Cabel's listed journals while attending my MBA [[Recent Publication]](/files/lutey2.pdf)-->
-<!-- * My research interests are in [market efficiency tests](/workingpapers), and [program trading](/workingpapers). -->
- <!-- [[Current Research]](/workingpapers)<!--[Working Papers](/workingpapers) -->
-<!-- * Please [contact](/contact) me if you are interested in working together. -->  
-<!--[conferences](/conferences), [service](/service), and [contact info](/contact) -->
-
-<!-- * I'm interested in collaborating with other students and scholars for new works including game theory, corporate finance, market efficiency, and other studies. Please [contact](/contact) me if you are interested in working together. -->
-<!-- * Publications: [Publication 1 PDF](/files/lutey2.pdf), [Publication 2 PDF](/files/lutey1.pdf), [Publication 3 PDF](/files/opbm2.pdf)
-* Job Market Research: [Dissertation](/workingpapers)
-* Teaching Statement [Click PDF](/files/teaching.pdf)
-* Research Statement [Click PDF](/files/research.pdf) -->
-
-<!-- * This website has my [publications](/publications), [teaching evaluations](/teaching), [conference activity](/conferences), [vitae](/files/cv.pdf), [service activity](/service), and [contact](/contact) information. -->
-
-
 ## Recent News
 * January 4th-6th, 2018 - I attended AEA/ASSA in Atlanta, GA.
 * November 14th, 2018 - I discussed  “Earnings Management under Different Ownership and Corporate Governance Structure: A Natural Experiment with Master Limited Partnerships.” - Haiwei Chen, Surendranath Jory, Thanh Ngo. [Southern Finance Association (SFA)](http://www.southernfinance.org) Ashville, NC.
@@ -42,7 +17,9 @@ redirect_from:
 * October 11th, 2018 - I attended [Finance Management Association (FMA)](https://www.fma.org) in San Diego, CA.
 * September 27th, 2018 - I defended my dissertation proposal titled ["Reliability of Technical Stock Price Patterns and Conditional Returns"](/workingpapers).
 * May 8th, 2018 - "An Application of CAN SLIM Investing in the Dow Jones Benchmark" was published in the Cabell's listed [Asian Journal of Economic Modeling (AJEM)](http://www.aessweb.com/journals/5009). [[PDF]](/files/lutey2.pdf)
-* August 20th, 2017 - Won best prize for a journal award Global Review of Accounting and Finance Paper 315: Mr. Matthew Lutey and Dr. David Rayome An Application of CAN SLIM Investing in the Dow Jones Benchmark.
+
+
+<!-- * August 20th, 2017 - Won best prize for a journal award Global Review of Accounting and Finance Paper 315: Mr. Matthew Lutey and Dr. David Rayome An Application of CAN SLIM Investing in the Dow Jones Benchmark.
 * August 11th, 2017 - I graduated with my M.S. in Financial Economics at the University of New Orleans.
 * June 10th, 2017 - I presented "An Application of CAN SLIM Investing in the Dow Jones Benchmark" and discussed a paper at the [World Business Institute (WBI)](http://www.worldbizins.org/conference/details/11) 10-11 July, 2017
 Sheraton LaGuardia East Hotel, New York, USA.
@@ -60,6 +37,7 @@ Sheraton LaGuardia East Hotel, New York, USA.
 * April 8 - 11, 2015 - I attended Eastern Finance Association (EFA) 51st Annual Meeting 2015 in New Orleans, Louisiana.
 * December 1st, 2014 - "OPBM II An Application of CAN SLIM Investing" was published in the [Journal of Accounting and Finance (JAF)](http://www.na-businesspress.com/jafopen.html).[[PDF]](/files/opbm2.pdf).
 * August, 2014 - Privateer Graduate Award Recipient.
+
 * August, 2014 - I started my Ph.D. in Financial Economics at the University of New Orleans.
 * April 2nd, 2014 - I got accepted in to a Ph.D. program in Financial Economics at the University of New Orleans.
 * March 10th, 2014 -  I presented "OPBM II An Application of CAN SLIM Investing System" and served as a discussant at the [MBAA International](https://mbaainternational.org/) Confeence at the Palmer House Hilton Hotel • Chicago, IL
@@ -75,9 +53,7 @@ Sheraton LaGuardia East Hotel, New York, USA.
 * March, 2011 - I attended the R.I.S.E. conference in Dayton Ohio with the Student managed Investment fund.
 * August, 2007 - I started my Bachelors of Science as a pre-med student at Northern Michigan University.
 * June 20th, 2007 - [Health Occupation Students of America](http://www.hosa.org/) [National Leadership Conference](http://www.hosa.org/nlc/nlc.html), June 20-23 – Marriott World Center Orlando, Florida. Presented on Dental Hygiene with two other students.
-
-
-<!--* November 14th, 2018 - I discussed  “Earnings Management under Different Ownership and Corporate Governance Structure: A Natural Experiment with Master Limited Partnerships.” - Haiwei Chen, Surendranath Jory, Thanh Ngo. for the [Southern Finance Association (SFA)](http://www.southernfinance.org) in Ashville, NC.
+* November 14th, 2018 - I discussed  “Earnings Management under Different Ownership and Corporate Governance Structure: A Natural Experiment with Master Limited Partnerships.” - Haiwei Chen, Surendranath Jory, Thanh Ngo. for the [Southern Finance Association (SFA)](http://www.southernfinance.org) in Ashville, NC.
 * November 10th, 2018 - I served as a committee member and reviewer for [Eastern Finance Association (EFA) 2019 Meeting. Miami, FL - April 10-13, 2019](https://www.easternfinance.online).
 * October 11th, 2018 - I attended [Finance Management Association (FMA)](https://www.fma.org) in San Diego, CA.
 * September 27th, 2018 - I defended my dissertation proposal titled "Reliability of Technical Stock Price Patterns and Conditional Returns".
@@ -94,4 +70,4 @@ Sheraton LaGuardia East Hotel, New York, USA.
 * March 10th, 2014 -  I presented "OPBM II An Application of CAN SLIM Investing System" and served as a discussant at the [MBAA International Confeence at the Palmer House Hilton Hotel • Chicago, IL](https://mbaainternational.org/)
 * May 5th, 2013 - "Out Performing the Broad Market, An Application of CAN SLIM Investing" was published in the Cabell's listed [ASBBS e-journal](/files/lutey1.pdf).
 * February 22nd, 2013 - My paper "An Application of CAN SLIM Investing" won a best paper for the finance track award at [ASBBS](http://asbbs.org).
-* February 21st, 2013 - I presented "An Application of CAN SLIM Investing" and served as a discussant at the American Society of Business and Behavioral Science ASBBS 20th Annual Conference, Las Vegas: February 21-24, 2013. -->
+* February 21st, 2013 - I presented "An Application of CAN SLIM Investing" and served as a discussant at the American Society of Business and Behavioral Science ASBBS 20th Annual Conference, Las Vegas: February 21-24, 2013.  -->
