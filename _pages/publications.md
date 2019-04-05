@@ -3,13 +3,12 @@ title: "Publications [Google Scholar Profile](https://scholar.google.com/citatio
 permalink: /publications/
 author_profile: true
 ---
+* Research Presentation <a href="https://youtu.be/tK9ILjDjIdc">Click to view my 2017 presentation</a>
 
 ## Peer Reviewed Journal (Other - Finance)
 
 <b>[An Application of Can Slim Investing in the Dow Jones Benchmark](canslim3)</b> <br>
 <b>M Lutey</b>, MK Hassan, D Rayome <i>Asian Journal of Economic Modeling</i>. <b>AJEM 2018</b>.[[PDF]](/files/lutey2.pdf)
-
-* Research Presentation <a href="https://youtu.be/tK9ILjDjIdc">Click to View My Presentation</a>
 
 <b>[OPBM II: An Interpretation of the CAN SLIM Investment Strategy](canslim2)</b> <br>
 <b>M Lutey</b>, M Crum, D Rayome, <i>MBAA Conference</i><b>JAF 2014</b> [[PDF]](/files/opbm2.pdf)
