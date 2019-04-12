@@ -306,7 +306,7 @@ compress_html:
     envs: development
 
 #theme: jekyll-theme-architect
-theme: "minimal-mistakes-jekyll"
+theme: jekyll-theme-tactile
 minimal_mistakes_skin: "dark" #"air" #"dark" #"contrast" #"neon" #"air" #"dark" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 
