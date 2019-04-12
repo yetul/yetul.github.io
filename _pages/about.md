@@ -14,7 +14,7 @@ redirect_from:
 ## About
 I'm a graduate student from upper Michigan. I plan on completing my PhD this spring from the University of New Orleans. I previously completed a Bachelors of Science and MBA from Northern Michigan University. This is a professional page with links to my resume and job market documents. I also have a travel blog.
 
-For fun I like to kayak, play beach volleyball, go hiking, run, weight lift, and play pick up sports including ultimate frisbee, basketball, and flag football. I also like ballroom dancing, and salsa. 
+For fun I like to kayak, play beach volleyball, go hiking, run, weight lift, and play pick up sports including ultimate frisbee, basketball, and flag football. I also like ballroom dancing, and salsa.
 ## Recent News
 * January 4th-6th, 2018 - I attended AEA/ASSA in Atlanta, GA.
 * November 14th, 2018 - I discussed  “Earnings Management under Different Ownership and Corporate Governance Structure: A Natural Experiment with Master Limited Partnerships.” - Haiwei Chen, Surendranath Jory, Thanh Ngo. [Southern Finance Association (SFA)](http://www.southernfinance.org) Ashville, NC.
@@ -22,7 +22,7 @@ For fun I like to kayak, play beach volleyball, go hiking, run, weight lift, and
 * October 11th, 2018 - I attended [Finance Management Association (FMA)](https://www.fma.org) in San Diego, CA.
 * September 27th, 2018 - I defended my dissertation proposal titled ["Reliability of Technical Stock Price Patterns and Conditional Returns"](/workingpapers).
 * May 8th, 2018 - "An Application of CAN SLIM Investing in the Dow Jones Benchmark" was published in the Cabell's listed [Asian Journal of Economic Modeling (AJEM)](http://www.aessweb.com/journals/5009). [[PDF]](/files/lutey2.pdf)
-
+* test 
 
 <!-- * August 20th, 2017 - Won best prize for a journal award Global Review of Accounting and Finance Paper 315: Mr. Matthew Lutey and Dr. David Rayome An Application of CAN SLIM Investing in the Dow Jones Benchmark.
 * August 11th, 2017 - I graduated with my M.S. in Financial Economics at the University of New Orleans.
