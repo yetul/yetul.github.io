@@ -9,8 +9,6 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-# Windows does not include zoneinfo files, so bundle the tzinfo-data gem
-gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 #gem 'wdm', '~> 0.1.1', :install_if => Gem.win_platform?
 
@@ -32,6 +30,9 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 group :jekyll_plugins do
   # gem "jekyll-archives"
   gem "jekyll-feed"
+  gem 'jekyll-include-cache'
   gem 'jekyll-sitemap'
   gem 'hawkins'
+
+  gem "minimal-mistakes-jekyll"
 end
