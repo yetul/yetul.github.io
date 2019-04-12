@@ -311,7 +311,7 @@ compress_html:
 
 
 
-theme: jekyll-theme-tactile
+theme: minima
 
 
 github: [metadata]
