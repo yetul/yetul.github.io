@@ -21,8 +21,8 @@ For fun I like to kayak, play beach volleyball, go hiking, run, weight lift, and
 * November 10th, 2018 - I served as a committee member and reviewer for [Eastern Finance Association (EFA)](https://www.easternfinance.online) 2019 Meeting. Miami, FL - April 10-13, 2019.
 * October 11th, 2018 - I attended [Finance Management Association (FMA)](https://www.fma.org) in San Diego, CA.
 * September 27th, 2018 - I defended my dissertation proposal titled ["Reliability of Technical Stock Price Patterns and Conditional Returns"](/workingpapers).
-* May 8th, 2018 - "An Application of CAN SLIM Investing in the Dow Jones Benchmark" was published in the Cabell's listed [Asian Journal of Economic Modeling (AJEM)](http://www.aessweb.com/journals/5009). [[PDF]](/files/lutey2.pdf)
-* 
+* May 8th, 2018 - "An Application of CAN SLIM Investing in the Dow Jones Benchmark" was published in [Asian Journal of Economic Modeling (AJEM)](http://www.aessweb.com/journals/5009). [[PDF]](/files/lutey2.pdf)
+
 
 <!-- * August 20th, 2017 - Won best prize for a journal award Global Review of Accounting and Finance Paper 315: Mr. Matthew Lutey and Dr. David Rayome An Application of CAN SLIM Investing in the Dow Jones Benchmark.
 * August 11th, 2017 - I graduated with my M.S. in Financial Economics at the University of New Orleans.
