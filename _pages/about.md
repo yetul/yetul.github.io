@@ -10,6 +10,11 @@ redirect_from:
 <p align="center">
   <img src="https://yetul.github.io/files/ml.jpg?raw=true" alt="Photo" style="width: 500px;"/>
 </p>
+
+## About
+I'm a graduate student from upper Michigan. I plan on completing my PhD this spring from the University of New Orleans. I previously completed a Bachelors of Science and MBA from Northern Michigan University. This is a professional page with links to my resume and job market documents. I also have a travel blog.
+
+For fun I like to kayak, play beach volleyball, go hiking, run, weight lift, and play pick up sports including ultimate frisbee, basketball, and flag football. I also like ballroom dancing, and salsa. 
 ## Recent News
 * January 4th-6th, 2018 - I attended AEA/ASSA in Atlanta, GA.
 * November 14th, 2018 - I discussed  “Earnings Management under Different Ownership and Corporate Governance Structure: A Natural Experiment with Master Limited Partnerships.” - Haiwei Chen, Surendranath Jory, Thanh Ngo. [Southern Finance Association (SFA)](http://www.southernfinance.org) Ashville, NC.
