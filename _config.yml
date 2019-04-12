@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Matthew Lutey"
-  avatar           : "images/mattEFA.JPG"
+  avatar           : "mattEFA.JPG"
   bio              : "Ph.D. Candidate in Financial Economics"
   location         : "New Orleans, LA"
   employer         :
@@ -305,9 +305,9 @@ compress_html:
   ignore:
     envs: development
 
-theme: jekyll-theme-architect
-#theme: "minimal-mistakes-jekyll"
-#minimal_mistakes_skin: "dark" #"contrast" #"neon" #"air" #"dark" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+#theme: jekyll-theme-architect
+theme: "minimal-mistakes-jekyll"
+minimal_mistakes_skin: "dark" #"air" #"dark" #"contrast" #"neon" #"air" #"dark" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 
 
