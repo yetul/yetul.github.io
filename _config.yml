@@ -304,17 +304,14 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+#
 
-<<<<<<< HEAD
+#
+#
+
+
+
 theme: jekyll-theme-architect
-#theme: "minimal-mistakes-jekyll"
-#minimal_mistakes_skin: "dark" #"air" #"dark" #"contrast" #"neon" #"air" #"dark" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
-=======
-#theme: jekyll-theme-architect
-theme: jekyll-theme-tactile
-minimal_mistakes_skin: "dark" #"air" #"dark" #"contrast" #"neon" #"air" #"dark" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
->>>>>>> dcc9a23de2c792a98b1e95acd7dc7a20b337cbf8
-
 
 
 github: [metadata]
