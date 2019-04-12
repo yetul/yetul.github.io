@@ -308,11 +308,8 @@ compress_html:
 
 #
 #
-
-
-
-theme: minima
-
+#
+remote_theme: jacobtomlinson/carte-noire
 
 github: [metadata]
 
