@@ -33,6 +33,6 @@ group :jekyll_plugins do
   gem 'jekyll-include-cache'
   gem 'jekyll-sitemap'
   gem 'hawkins'
-  gem "mattgraham/midnight"
+  gem "minimal-mistakes-jekyll"
 #  gem "minimal-mistakes-jekyll"
 end

@@ -309,11 +309,8 @@ compress_html:
 #
 #
 
-
-
-#theme: minima
-remote_theme: mattgraham/midnight
-
+#
+remote_theme: johno/pixyll
 github: [metadata]
 
 plugins:
