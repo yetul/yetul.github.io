@@ -21,9 +21,9 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
-
+gem "jekyll", "~> 3.4"
 # gem "jekyll"
-
+gem "minimal-mistakes-jekyll"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # If you have any plugins, put them here!
@@ -33,6 +33,6 @@ group :jekyll_plugins do
   gem 'jekyll-include-cache'
   gem 'jekyll-sitemap'
   gem 'hawkins'
-  gem "minimal-mistakes-jekyll"
+
 
 end

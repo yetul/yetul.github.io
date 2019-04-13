@@ -16,8 +16,8 @@ I'm a graduate student from upper Michigan. I plan on completing my PhD this spr
 
 For fun I like to kayak, play beach volleyball, go hiking, run, weight lift, and play pick up sports including ultimate frisbee, basketball, and flag football. I also like ballroom dancing, and salsa.
 ## Recent News
-* January 4th-6th, 2018 - I attended AEA/ASSA in Atlanta, GA.
-* November 14th, 2018 - I discussed  “Earnings Management under Different Ownership and Corporate Governance Structure: A Natural Experiment with Master Limited Partnerships.” - Haiwei Chen, Surendranath Jory, Thanh Ngo. [Southern Finance Association (SFA)](http://www.southernfinance.org) Ashville, NC.
+* I expect to defend my dissertation this April and graduate in August.
+* November 14th, 2018 - I discussed  “Earnings Management under Different Ownership and Corporate Governance Structure: A Natural Experiment with Master Limited Partnerships.” Haiwei Chen, Surendranath Jory, Thanh Ngo. [Southern Finance Association (SFA)](http://www.southernfinance.org) Ashville, NC.
 * November 10th, 2018 - I served as a committee member and reviewer for [Eastern Finance Association (EFA)](https://www.easternfinance.online) 2019 Meeting. Miami, FL - April 10-13, 2019.
 * October 11th, 2018 - I attended [Finance Management Association (FMA)](https://www.fma.org) in San Diego, CA.
 * September 27th, 2018 - I defended my dissertation proposal titled ["Reliability of Technical Stock Price Patterns and Conditional Returns"](/workingpapers).

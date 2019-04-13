@@ -31,15 +31,15 @@ author_profile: true
 
 <!-- ## Submitted -->
 ## In progress
-<b>[Survival Analysis of Ichimoku Cloud Indicator](/publications/wp1)</b><br>
+<!-- <b>[Survival Analysis of Ichimoku Cloud Indicator](/publications/wp1)</b><br>
 
 <b>[Performance Evaluation of Stock Selection Strategies](/publications/wp2)</b><br>
 
-<b>[A Primer on Ichimoku Cloud Indicator](/publications/wp3)</b><br>
+<b>[A Primer on Ichimoku Cloud Indicator](/publications/wp3)</b><br> -->
 
 <b>[Forecasting Equity Premium with Ichimoku Cloud](/publications/wp4)</b><br>
 
-<b>[Pay Gap: Do outside CEOs earn unfair compensation](/publications/wp5)</b><br>
+<!-- <b>[Pay Gap: Do outside CEOs earn unfair compensation](/publications/wp5)</b><br> -->
 
 <b>[CAN SLIM and Technical Analysis](/publications/wp6)</b><br>
 
