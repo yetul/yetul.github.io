@@ -8,11 +8,7 @@ author_profile: true
 ---
 ## Instructor with full responsibilities (Teaching Associate)
 
-
-<b>[Student Comments](/files/studentcomment.pdf)</b>
-| <b>[Rate my Professor](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=2399191)</b>
-
-<b>[ECON1203: Microeconomics](http://www.uno.edu/registrar/catalog/1617catalog/courses-of-instruction/ECON.aspx)</b>On Schedule Spring 2019<br>
+<b>[ECON1203: Microeconomics](http://www.uno.edu/registrar/catalog/1617catalog/courses-of-instruction/ECON.aspx)</b>Spring 2019<br>
 Department of Economics and Finance, <b>University of New Orleans</b><br>
 <b>[Syllabus](/files/econ1203syllabusspring19.pdf)</b>
 
@@ -39,7 +35,7 @@ Department of Economics and Finance, <b>University of New Orleans</b><br>
 <b>[Reviews](qmbe4400) [Syllabus](/files/syllabusqmbe4400.pdf)</b><br><br>
 
 
-## Teaching Demonstration: <a href="https://youtu.be/8pkSEN5VSAw">Click to View My Teaching Demonstration</a> 
+## Teaching Demonstration: <a href="https://youtu.be/8pkSEN5VSAw">Click to View My Teaching Demonstration</a>
 
 
 ## Teaching Assistant
