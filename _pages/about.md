@@ -16,7 +16,7 @@ redirect_from:
 ## About
 I completed my Ph.D. in finance at the University of New Orleans. I'm originally from upper Michigan.
 
-For fun I've been playing sand volleyball and ultimate. I also like doing yoga.
+For fun I've been playing sand volleyball and ultimate. 
 
 ## Recent News
 * May 15th, 2019. I defended my dissertation.
