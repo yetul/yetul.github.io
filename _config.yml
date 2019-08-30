@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : Matthew Lutey
 title_separator          : "-"
 name                     : simple cite
-description              : Ph.D. Candiate
+description              : Finance Ph.D>
 url                      : https://yetul.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "yetul/yetul.github.io"
