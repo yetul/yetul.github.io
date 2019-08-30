@@ -4,6 +4,7 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Department of Economics and Finance, University of New Orleans<br>
-Kirshman Hall, 2000 Lakeshore Dr., New Orleans, LA 70122<br>
-Email: mlutey1 [at] uno.edu
+School of Business and Economics, Indiana University Northwest<br>
+3400 Broadway<br>
+Gary, IN 46408<br>
+Email: mlutey [at] iun.edu
