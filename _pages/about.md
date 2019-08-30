@@ -14,7 +14,7 @@ redirect_from:
 </p>
 
 ## About
-I'm a Ph.D. student in finance at the University of New Orleans. I'm originally from upper Michigan.
+I completed my Ph.D. in finance at the University of New Orleans. I'm originally from upper Michigan.
 
 For fun I've been playing sand volleyball and ultimate. I also like doing yoga.
 
