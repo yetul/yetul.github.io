@@ -14,18 +14,20 @@ redirect_from:
 </p>
 
 ## About
-I completed my Ph.D. in finance at the University of New Orleans. I'm originally from upper Michigan.
+I completed my Ph.D. in finance at the University of New Orleans August 2019. I'm originally from upper Michigan. I'm an Assistant Professor of Finance at Indiana University, NW.
 
-For fun I've been playing sand volleyball and ultimate. 
+For fun I've been playing sand volleyball and ultimate.
 
 ## Recent News
+* Aug 5th, 2019. I graduated with my Ph.D. in financial econometrics from the University of New Orleans
 * May 15th, 2019. I defended my dissertation.
 * April 14th, 2019. I accepted a job as an assistant professor in finance at Indiana University NW in Gary, IN. For August 2019.
-* November 14th, 2018 - I discussed  “Earnings Management under Different Ownership and Corporate Governance Structure: A Natural Experiment with Master Limited Partnerships.” Haiwei Chen, Surendranath Jory, Thanh Ngo. [Southern Finance Association (SFA)](http://www.southernfinance.org) Ashville, NC.
+
+<!--* November 14th, 2018 - I discussed  “Earnings Management under Different Ownership and Corporate Governance Structure: A Natural Experiment with Master Limited Partnerships.” Haiwei Chen, Surendranath Jory, Thanh Ngo. [Southern Finance Association (SFA)](http://www.southernfinance.org) Ashville, NC.
 * November 10th, 2018 - I served as a committee member and reviewer for [Eastern Finance Association (EFA)](https://www.easternfinance.online) 2019 Meeting. Miami, FL - April 10-13, 2019.
 * October 11th, 2018 - I attended [Finance Management Association (FMA)](https://www.fma.org) in San Diego, CA.
 * September 27th, 2018 - I defended my dissertation proposal titled ["Reliability of Technical Stock Price Patterns and Conditional Returns"](/workingpapers).
-* May 8th, 2018 - "An Application of CAN SLIM Investing in the Dow Jones Benchmark" was published in [Asian Journal of Economic Modeling (AJEM)](http://www.aessweb.com/journals/5009). [[PDF]](/files/lutey2.pdf)
+* May 8th, 2018 - "An Application of CAN SLIM Investing in the Dow Jones Benchmark" was published in [Asian Journal of Economic Modeling (AJEM)](http://www.aessweb.com/journals/5009). [[PDF]](/files/lutey2.pdf) -->
 
 
 <!-- * August 20th, 2017 - Won best prize for a journal award Global Review of Accounting and Finance Paper 315: Mr. Matthew Lutey and Dr. David Rayome An Application of CAN SLIM Investing in the Dow Jones Benchmark.

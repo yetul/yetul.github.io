@@ -1,9 +1,9 @@
 ---
-title: "Publications [Google Scholar Profile](https://scholar.google.com/citations?user=S0Ls70oAAAAJ&hl=en)"
+title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=S0Ls70oAAAAJ&hl=en)"
 permalink: /publications/
 author_profile: true
 ---
-* Research Presentation <a href="https://youtu.be/tK9ILjDjIdc">Click to view my 2017 presentation</a>
+* WBI Presentation <a href="https://youtu.be/tK9ILjDjIdc">Click to view my 2017 presentation</a>
 
 ## Peer Reviewed Journal (Other - Finance)
 

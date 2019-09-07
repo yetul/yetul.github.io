@@ -7,20 +7,20 @@ main:
 - title: "Publications"
   url: /publications/
 
-- title: "Working Paper(s)"
-  url: /workingpapers/
+#- title: "Working Paper(s)"
+#  url: /workingpapers/
 
-- title: "Teaching"
-  url: /teaching/
+#- title: "Teaching"
+#  url: /teaching/
 
 - title: "Conferences"
   url: /conferences/
 
-- title: "Service"
-  url: /service/
+#- title: "Service"
+#  url: /service/
 
 - title: "Contact"
   url: /contact/
 
-- title: "Blog"
-  url: /year-archive/
+#- title: "Blog"
+#  url: /year-archive/
