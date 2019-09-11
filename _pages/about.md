@@ -14,14 +14,18 @@ redirect_from:
 </p>
 
 ## About
-I completed my Ph.D. in finance at the University of New Orleans August 2019. I'm originally from upper Michigan. I'm an Assistant Professor of Finance at Indiana University, NW.
 
-For fun I've been playing sand volleyball and ultimate.
+I'm an Assistant Professor of Finance at Indiana University, NW. I'm teaching undergraduate and MBA financial management.
 
 ## Recent News
-* Aug 5th, 2019. I graduated with my Ph.D. in financial econometrics from the University of New Orleans
+
+* Sep 10, 2019. I discussed details involving the weekend MBA program at IU Northwest on [Regionally Speaking through Lakeshore Public Radio](https://www.lakeshorepublicradio.org/programs/regionally-speaking#stream/0).
+
+* Aug 1st, 2019. I started as an Assistant Professor of Finance at Indiana University NW in Gary, IN.
+
+<!-- * Aug 5th, 2019. I graduated with my Ph.D. in financial econometrics from the University of New Orleans
 * May 15th, 2019. I defended my dissertation.
-* April 14th, 2019. I accepted a job as an assistant professor in finance at Indiana University NW in Gary, IN. For August 2019.
+* April 14th, 2019. I accepted a job as an assistant professor in finance at Indiana University NW in Gary, IN. For August 2019. -->
 
 <!--* November 14th, 2018 - I discussed  “Earnings Management under Different Ownership and Corporate Governance Structure: A Natural Experiment with Master Limited Partnerships.” Haiwei Chen, Surendranath Jory, Thanh Ngo. [Southern Finance Association (SFA)](http://www.southernfinance.org) Ashville, NC.
 * November 10th, 2018 - I served as a committee member and reviewer for [Eastern Finance Association (EFA)](https://www.easternfinance.online) 2019 Meeting. Miami, FL - April 10-13, 2019.

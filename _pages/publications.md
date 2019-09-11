@@ -3,7 +3,7 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
-* WBI Presentation <a href="https://youtu.be/tK9ILjDjIdc">Click to view my 2017 presentation</a>
+ <!-- * WBI Presentation <a href="https://youtu.be/  tK9ILjDjIdc">Click to view my 2017 presentation</a> -->
 
 ## Peer Reviewed Journal (Other - Finance)
 
