@@ -10,7 +10,7 @@ redirect_from:
 
 ---
 <p align="center">
-  <img src="https://yetul.github.io/files/ml.jpg?raw=true" alt="Photo" style="width: 500px;"/>
+  <img src="https://yetul.github.io/files/mlutey_300.jpg?raw=true" alt="Photo" style="width: 500px;"/>
 </p>
 
 ## About
