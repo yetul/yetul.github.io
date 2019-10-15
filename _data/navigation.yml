@@ -21,8 +21,8 @@ main:
 - title: "Contact"
   url: /contact/
   
-  - title: "Publications"
-    url: /publications/
+- title: "Publications"
+  url: /publications/
 
 #- title: "Blog"
 #  url: /year-archive/
