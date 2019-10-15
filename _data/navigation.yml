@@ -13,7 +13,7 @@ main:
 #  url: /teaching/
 
 - title: "Conferences"
- url: /conferences/
+  url: /conferences/
 
 #- title: "Service"
 #  url: /service/
@@ -22,7 +22,7 @@ main:
   url: /contact/
   
   - title: "Publications"
- url: /publications/
+    url: /publications/
 
 #- title: "Blog"
 #  url: /year-archive/
