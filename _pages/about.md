@@ -18,10 +18,20 @@ redirect_from:
 I'm an Assistant Professor of Finance at Indiana University, NW. I'm teaching undergraduate and MBA financial management.
 
 ## Recent News
+* "Making Groups Better" was published in IJIER Vol 7 No 10 August Edition Oct 31st/2019
+
+* I attended Valparaiso University Economics Colloquium - Wednesday, October 30
+
+* I presented at the IASS conference at Valparaiso University. Oct 11/2019
+
+* I reviewed a book chapter titled “Shifting Toward Consumer-Centricity: Insights and Lessons From Emerging Transformations” 9/25/2019 for IGI Global
+
+* I reviewed a book chapter titled “The Economics of Health: An Overview of the American Healthcare System
+” 9/25/2019 for IGI Global
+
+* Submitted  "Making Groups Better" to Journal of the Scholarship of Teaching and Learning with James Carl 9/23/2019
 
 * Sep 10, 2019. I discussed details involving the weekend MBA program at IU Northwest on [Regionally Speaking through Lakeshore Public Radio](https://www.lakeshorepublicradio.org/programs/regionally-speaking#stream/0).
-
-* Aug 1st, 2019. I started as an Assistant Professor of Finance at Indiana University NW in Gary, IN.
 
 <!-- * Aug 5th, 2019. I graduated with my Ph.D. in financial econometrics from the University of New Orleans
 * May 15th, 2019. I defended my dissertation.
