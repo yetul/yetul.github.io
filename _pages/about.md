@@ -27,7 +27,7 @@ I'm an Assistant Professor of Finance at Indiana University, NW. I'm teaching un
 * I reviewed a book chapter titled “Shifting Toward Consumer-Centricity: Insights and Lessons From Emerging Transformations” 9/25/2019 for IGI Global
 
 * I reviewed a book chapter titled “The Economics of Health: An Overview of the American Healthcare System
-” 9/25/2019 for IGI Global
+ 9/25/2019 for IGI Global
 
 * Submitted  "Making Groups Better" to Journal of the Scholarship of Teaching and Learning with James Carl 9/23/2019
 

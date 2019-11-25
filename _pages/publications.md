@@ -4,6 +4,9 @@ permalink: /publications/
 author_profile: true
 ---
  <!-- * WBI Presentation <a href="https://youtu.be/  tK9ILjDjIdc">Click to view my 2017 presentation</a> -->
+## Dissertation
+
+<b>[Reliability of Technical Stock Price Pattern Predictability](https://scholarworks.uno.edu/td/2672/)</b>
 
 ## Peer Reviewed Journal (Other - Finance)
 
